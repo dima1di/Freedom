@@ -1,1 +1,1 @@
-vless://4a1b6409-c3a5-496d-86ec-d4060c31dfca@95.182.99.249:55237?security=none&encryption=none#Auto-Updated-VLESS
+vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@66.81.247.155:443?path=%2Ftsghdws&security=tls&encryption=none&host=octopusss4.com&fp=chrome&sni=octopusss4.com&type=ws#us-vless1
