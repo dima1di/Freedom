@@ -1,1 +1,1 @@
-vless://1a135182-37b9-4b40-bb1b-34379d697ccb@panel.dibaux.ir:80?path=%2Fstream&security=none&encryption=none&host=panel.dibaux.ir&type=ws#us-vless1
+vless://4a1b6409-c3a5-496d-86ec-d4060c31dfca@95.182.99.249:55237?security=none&encryption=none#Auto-Updated-VLESS
