@@ -1,1 +1,1 @@
-vless://27d8f06e-aa67-4220-b9b1-74cd0097ace4@95.182.99.249:55237?security=none&encryption=none#freedom
+vless://372a64ab-298d-4b4f-abc1-9b3fbe242bc3@111.88.107.251:80?security=none&encryption=none#freedom
