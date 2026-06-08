@@ -1,5 +1,5 @@
 vless://a42fdac4-53c7-4a5d-8655-4168eecbe43d@65.109.181.18:27014?security=none&encryption=none#freedom1
-vless://a42fdac4-53c7-4a5d-8655-4168eecbe43d@65.109.181.18:27014?security=none&encryption=none#freedom2
-vless://a42fdac4-53c7-4a5d-8655-4168eecbe43d@65.109.181.18:27014?security=none&encryption=none#freedom3
-vless://a42fdac4-53c7-4a5d-8655-4168eecbe43d@65.109.181.18:27014?security=none&encryption=none#freedom4
-vless://c3117cc5-9528-4177-ac05-73b5e8ebcd23@panel.dibaux.ir:80?security=none&encryption=none&type=ws&path=/stream&host=panel.dibaux.ir#freedom5
+vless://c3117cc5-9528-4177-ac05-73b5e8ebcd23@panel.dibaux.ir:80?security=none&encryption=none&type=ws&path=/stream&host=panel.dibaux.ir#freedom2
+vless://c3117cc5-9528-4177-ac05-73b5e8ebcd23@panel.dibaux.ir:80?security=none&encryption=none&type=ws&path=/stream&host=panel.dibaux.ir#freedom3
+vless://2be7b933-c720-4838-a35a-740ae50987ee@hyperlink-free.poweredproyuz.com:443?security=tls&encryption=none&type=ws&path=/hyperlink-hyperlink-join-to-hyperlink-hyperlink_ch-hyperlink-hlink_robot-hyperlink&host=hyperlink-free.poweredproyuz.com&sni=hyperlink-free.poweredproyuz.com&fp=#freedom4
+vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@betty.ns.cloudflare.com:443?security=tls&encryption=none&type=ws&path=/tsghdws&host=octopusss4.com&sni=octopusss4.com&fp=#freedom5
