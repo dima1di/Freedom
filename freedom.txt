@@ -1,5 +1,5 @@
-vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@188.114.97.6:443?security=tls&encryption=none&type=ws&path=/tsghdws&host=octopusss4.com&sni=octopusss4.com&fp=chrome#freedom1
-vless://7752f6f7-7052-42bf-b571-34a02658cc71@www.speedtest.net:443?security=tls&encryption=none&type=ws&path=/news&host=cdn-pro1.postshup.ir.&sni=cdn-pro1.postshup.ir.&fp=chrome#freedom2
-vless://0058c215-ab1e-400c-a403-b5b2fda7e846@speedtest.net:80?security=&encryption=none&type=ws&path=/&host=max-gb1.global.ssl.fastly.net#freedom3
-vless://2be7b933-c720-4838-a35a-740ae50987ee@hyperlink-free.poweredproyuz.com:443?security=tls&encryption=none&type=ws&path=/hyperlink-hyperlink-join-to-hyperlink-hyperlink_ch-hyperlink-hlink_robot-hyperlink&host=hyperlink-free.poweredproyuz.com&sni=hyperlink-free.poweredproyuz.com&fp=#freedom4
-vless://045acec8-7d9e-4793-9917-c909a4a70887@api2.atirose.com:2087?security=tls&encryption=none&type=ws&path=/&host=dd06140a5f0fc0eb.rainzone.ir&sni=dd06140a5f0fc0eb.rainzone.ir&fp=chrome#freedom5
+vless://a42fdac4-53c7-4a5d-8655-4168eecbe43d@65.109.181.18:27014?security=none&encryption=none#freedom1
+vless://a42fdac4-53c7-4a5d-8655-4168eecbe43d@65.109.181.18:27014?security=none&encryption=none#freedom2
+vless://a42fdac4-53c7-4a5d-8655-4168eecbe43d@65.109.181.18:27014?security=none&encryption=none#freedom3
+vless://a42fdac4-53c7-4a5d-8655-4168eecbe43d@65.109.181.18:27014?security=none&encryption=none#freedom4
+vless://c3117cc5-9528-4177-ac05-73b5e8ebcd23@panel.dibaux.ir:80?security=none&encryption=none&type=ws&path=/stream&host=panel.dibaux.ir#freedom5
