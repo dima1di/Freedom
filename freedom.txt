@@ -1,5 +1,5 @@
-vless://60617a2c-043e-2328-ae47-f53d806353c8@89.208.231.191:52006?security=tls&encryption=none&sni=89.208.231.191&fp=chrome#freedom1
-vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@104.17.108.189:443?security=tls&encryption=none&type=ws&path=/tsghdws&host=octopusss4.com&sni=octopusss4.com&fp=#freedom2
-vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@188.114.97.6:443?security=tls&encryption=none&type=ws&path=/tsghdws&host=octopusss4.com&sni=octopusss4.com&fp=chrome#freedom3
-vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@188.114.97.6:443?security=tls&encryption=none&type=ws&path=/tsghdws#TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=2560&host=octopusss4.com&sni=octopusss4.com&fp=chrome#freedom4
-vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@89.116.46.8:443?security=tls&encryption=none&type=ws&path=/tsghdws&host=octopusss4.com&sni=octopusss4.com&fp=#freedom5
+vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@betty.ns.cloudflare.com:443?security=tls&encryption=none&type=ws&path=/tsghdws&host=octopusss4.com&sni=octopusss4.com&fp=#freedom1
+vless://0058c215-ab1e-400c-a403-b5b2fda7e846@199.232.197.131:80?security=none&encryption=none&type=ws&path=/&host=max-gb1.global.ssl.fastly.net#freedom2
+vless://cabbfe13-038b-4dbb-9c45-5079c829abfa@speedtest.net:80?security=none&encryption=none&type=ws&path=/&host=max-gb1.global.ssl.fastly.net#freedom3
+vless://cabbfe13-038b-4dbb-9c45-5079c829abfa@speedtest.net:80?security=none&encryption=none&type=ws&path=/&host=max-gb1.global.ssl.fastly.net#freedom4
+vless://950518cc-fcd4-4547-be3d-32acf65257ca@clpol.portalcode.ir:2087?security=tls&encryption=none&type=ws&path=/&host=1a2d67b21f8bb05c.rainzone.ir&sni=1a2d67b21f8bb05c.rainzone.ir&fp=#freedom5
