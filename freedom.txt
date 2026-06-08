@@ -1,1 +1,1 @@
-vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@185.18.250.252:443?security=tls&encryption=none&type=ws&path=/tsghdws&host=octopusss4.com&sni=octopusss4.com&fp=#freedom
+vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@188.114.97.6:443?security=tls&encryption=none&type=ws&path=/tsghdws&host=octopusss4.com&sni=octopusss4.com&fp=chrome#freedom
