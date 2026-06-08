@@ -1,5 +1,5 @@
-vless://e84064cc-617f-4ba8-aa6f-13e920fd2610@188.114.97.3:80?security=none&encryption=none&type=ws&path=/&host=main.boobie.eu.cc#freedom1
-vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@172.64.32.75:443?security=tls&encryption=none&type=ws&path=/tsghdws&host=octopusss4.com&sni=octopusss4.com&fp=#freedom2
-vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@172.66.47.45:443?security=tls&encryption=none&type=ws&path=/tsghdws&host=octopusss4.com&sni=octopusss4.com&fp=#freedom3
-vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@173.245.58.75:443?security=tls&encryption=none&type=ws&path=/tsghdws&host=octopusss4.com&sni=octopusss4.com&fp=chrome#freedom4
-vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@162.159.193.138:443?security=tls&encryption=none&type=ws&path=/tsghdws&host=octopusss4.com&sni=octopusss4.com&fp=chrome#freedom5
+vless://60617a2c-043e-2328-ae47-f53d806353c8@89.208.231.191:52006?security=tls&encryption=none&sni=89.208.231.191&fp=chrome#freedom1
+vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@104.17.108.189:443?security=tls&encryption=none&type=ws&path=/tsghdws&host=octopusss4.com&sni=octopusss4.com&fp=#freedom2
+vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@188.114.97.6:443?security=tls&encryption=none&type=ws&path=/tsghdws&host=octopusss4.com&sni=octopusss4.com&fp=chrome#freedom3
+vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@188.114.97.6:443?security=tls&encryption=none&type=ws&path=/tsghdws#TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=2560&host=octopusss4.com&sni=octopusss4.com&fp=chrome#freedom4
+vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@89.116.46.8:443?security=tls&encryption=none&type=ws&path=/tsghdws&host=octopusss4.com&sni=octopusss4.com&fp=#freedom5
