@@ -1,5 +1,5 @@
-vless://28e891f7-7b00-2328-a287-3379beaf316b@89.208.231.191:52006?security=tls&encryption=none&sni=89.208.231.191&fp=chrome#freedom1
-vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@betty.ns.cloudflare.com:443?security=tls&encryption=none&type=ws&path=/tsghdws&host=octopusss4.com&sni=octopusss4.com&fp=#freedom2
-vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@108.162.192.75:443?security=tls&encryption=none&type=ws&path=/tsghdws&host=octopusss4.com&sni=octopusss4.com&fp=chrome#freedom3
-vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@172.64.146.138:443?security=tls&encryption=none&type=ws&path=/tsghdws&host=octopusss4.com&sni=octopusss4.com&fp=#freedom4
-vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@162.159.36.5:443?security=tls&encryption=none&type=ws&path=/tsghdws&host=octopusss4.com&sni=octopusss4.com&fp=#freedom5
+vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@172.64.32.75:443?security=tls&encryption=none&type=ws&path=/tsghdws&host=octopusss4.com&sni=octopusss4.com&fp=#freedom1
+vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@162.159.36.5:443?security=tls&encryption=none&type=ws&path=/tsghdws&host=octopusss4.com&sni=octopusss4.com&fp=#freedom2
+vless://c35050ce-01ab-45a9-91b8-54cec637d0a8@elliot.ns.cloudflare.com:443?security=tls&encryption=none&type=ws&path=/udfyfws&host=octopusss5.info&sni=octopusss5.info&fp=chrome#freedom3
+vless://6585a62b-4d8b-48cc-bdad-e2542504d748@194.36.55.163:8443?security=tls&encryption=none&sni=Itsrezu2.dr-ping.com&fp=chrome#freedom4
+vless://2be7b933-c720-4838-a35a-740ae50987ee@hyperlink-free.poweredproyuz.com:443?security=tls&encryption=none&type=ws&path=/hyperlink-hyperlink-join-to-hyperlink-hyperlink_ch-hyperlink-hlink_robot-hyperlink&host=hyperlink-free.poweredproyuz.com&sni=hyperlink-free.poweredproyuz.com&fp=#freedom5
