@@ -1,4 +1,5 @@
 vless://c3117cc5-9528-4177-ac05-73b5e8ebcd23@panel.dibaux.ir:80?security=none&encryption=none&type=ws&path=/stream&host=panel.dibaux.ir#freedom1
-vless://cabbfe13-038b-4dbb-9c45-5079c829abfa@199.232.197.131:80?security=none&encryption=none&type=ws&path=/&host=max-gb1.global.ssl.fastly.net#freedom2
-vless://cabbfe13-038b-4dbb-9c45-5079c829abfa@speedtest.net:80?security=none&encryption=none&type=ws&path=/&host=max-de1.global.ssl.fastly.net#freedom3
-vless://0058c215-ab1e-400c-a403-b5b2fda7e846@speedtest.net:80?security=none&encryption=none&type=ws&path=/&host=max-de1.global.ssl.fastly.net#freedom4
+vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@172.64.146.138:443?security=tls&encryption=none&type=ws&path=/tsghdws&host=octopusss4.com&sni=octopusss4.com&fp=#freedom2
+vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@betty.ns.cloudflare.com:443?security=tls&encryption=none&type=ws&path=/tsghdws&host=octopusss4.com&sni=octopusss4.com&fp=#freedom3
+vless://e84064cc-617f-4ba8-aa6f-13e920fd2610@188.114.96.3:80?security=none&encryption=none&type=ws&path=/&host=main.boobie.eu.cc#freedom4
+vless://e84064cc-617f-4ba8-aa6f-13e920fd2610@104.21.23.131:80?security=none&encryption=none&type=ws&path=/&host=main.boobie.eu.cc#freedom5
