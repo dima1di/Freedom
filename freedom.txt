@@ -1,1 +1,1 @@
-vless://372a64ab-298d-4b4f-abc1-9b3fbe242bc3@87.228.102.182:80?security=none&encryption=none#freedom
+vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@188.114.98.0:443?security=tls&encryption=none&type=ws&path=/tsghdws&host=octopusss4.com&sni=octopusss4.com&fp=chrome#freedom
