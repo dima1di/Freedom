@@ -1,1 +1,3 @@
-vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@betty.ns.cloudflare.com:443?security=tls&encryption=none&type=ws&path=/tsghdws&host=octopusss4.com&sni=octopusss4.com&fp=#freedom1
+vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@141.193.213.30:443?security=tls&encryption=none&type=ws&path=/tsghdws&host=octopusss4.com&sni=octopusss4.com&fp=#freedom1
+vless://f76412c3-abdf-4318-baf8-4a1bfa438968@213.108.20.152:443?security=tls&encryption=none&sni=node-de-frankfurt.neverlock.uk&fp=#freedom2
+vless://7b241232-208d-4d36-857e-913f91b044f4@desrv-res.noooo.win:443?security=tls&encryption=none&sni=api-6a20f558.noooo.win&fp=edge#freedom3
