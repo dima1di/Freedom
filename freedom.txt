@@ -1,3 +1,2 @@
-vless://47c87a37-3d09-4c3d-96fb-91ce3bcae058@62.60.148.226:8080?security=none&encryption=none#freedom1
-vless://e84064cc-617f-4ba8-aa6f-13e920fd2610@172.67.211.74:80?security=none&encryption=none&type=ws&path=/&host=main.boobie.eu.cc#freedom2
-vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@46.229.243.131:8443?security=tls&encryption=none&sni=cdn7-09.vk-cdnvideo.com&fp=chrome#freedom3
+vless://e84064cc-617f-4ba8-aa6f-13e920fd2610@188.114.96.3:80?security=none&encryption=none&type=ws&path=/&host=main.boobie.eu.cc#freedom1
+vless://d98c1be3-7837-4d8a-a9fc-05e7a807ccb0@server1.poludiro.workers.dev:8080?security=none&encryption=none&type=ws&path=/eyJqdW5rIjoiSWZqSHF3Q2RLIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcmVmaXgiLCJwYW5lbElQcyI6WyJbMmEwMjo4OTg6MTQ2OjY0OjpdIl19?ed=2560&host=server1.poludiro.workers.dev#freedom2
