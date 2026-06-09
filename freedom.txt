@@ -1,5 +1,5 @@
-vless://ef0ae83a-358f-03e8-b6ba-70b9578084c0@89.208.231.191:52006?security=tls&encryption=none&sni=89.208.231.191&fp=chrome#freedom1
-vless://6f1a1e67-7155-40cc-a24e-f4f1f5a6183b@158.160.46.238:443?security=reality&encryption=none&flow=xtls-rprx-vision&pbk=1vSZjvhZO01oAEH3b7eebR1qF5dLU1Dq2E7xu8pwGSs&sid=428ef87fd47a3a32&sni=rutube.ru&fp=qq#freedom2
-vless://def10dcd-7d96-4ce1-ae7b-97c1f132df2e@51.250.9.175:443?security=reality&encryption=none&flow=xtls-rprx-vision&pbk=HXP9HKqhQvwTwh0cgddJ3c3VND1lwRYRXgKfW1XPaX4&sid=bf0c3248f61fe277&sni=rutube.ru&fp=qq#freedom3
-vless://8c241159-7ab4-421d-87fb-34f872283612@51.250.95.42:443?security=reality&encryption=none&flow=xtls-rprx-vision&pbk=qpyc7QJdCOHqHOkdzoQeH7leZKi8c_ldUAhPmxImWFo&sid=e11822a0958dd1a3&sni=rutube.ru&fp=firefox#freedom4
-vless://3ce8cb5f-21f5-4140-9655-f163615b8405@51.250.24.222:443?security=reality&encryption=none&flow=xtls-rprx-vision&pbk=wgXD4k3A16WR0aL63N9Mx8xoqFigJLyQWJXi-l3MPXI&sid=8ec792bfd725be8a&sni=rutube.ru&fp=safari#freedom5
+vless://def10dcd-7d96-4ce1-ae7b-97c1f132df2e@178.154.227.129:443?security=reality&encryption=none&type=tcp&flow=xtls-rprx-vision&pbk=Yoh3T5ra4qSt7RebGXUM1xB1HUdIQPSzoxJkfxk-eTk&sid=6cafe8ea554e106b&sni=rutube.ru&fp=qq#freedom1
+vless://6f1a1e67-7155-40cc-a24e-f4f1f5a6183b@84.201.174.157:443?security=reality&encryption=none&type=tcp&flow=xtls-rprx-vision&pbk=1vSZjvhZO01oAEH3b7eebR1qF5dLU1Dq2E7xu8pwGSs&sid=428ef87fd47a3a32&sni=rutube.ru&fp=qq#freedom2
+vless://6f1a1e67-7155-40cc-a24e-f4f1f5a6183b@158.160.46.238:443?security=reality&encryption=none&type=tcp&flow=xtls-rprx-vision&pbk=1vSZjvhZO01oAEH3b7eebR1qF5dLU1Dq2E7xu8pwGSs&sid=428ef87fd47a3a32&sni=rutube.ru&fp=qq#freedom3
+vless://3ce8cb5f-21f5-4140-9655-f163615b8405@51.250.106.87:443?security=reality&encryption=none&type=tcp&flow=xtls-rprx-vision&pbk=wgXD4k3A16WR0aL63N9Mx8xoqFigJLyQWJXi-l3MPXI&sid=8ec792bfd725be8a&sni=rutube.ru&fp=safari#freedom4
+vless://22ec2bf9-6c0d-418b-9c58-2df1a77bee8b@84.201.177.246:3000?security=reality&encryption=none&type=xhttp&pbk=XQR4nMq5aBnJ4h1RTCRRJdkdtO0Mtitt1cDtY0whkBI&sid=4ad64b956eed301f&sni=rutube.ru&fp=safari#freedom5
