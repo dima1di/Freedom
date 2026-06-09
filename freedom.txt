@@ -1,5 +1,5 @@
-vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@45.130.125.0:443?security=tls&encryption=none&type=ws&path=/tsghdws&host=octopusss4.com&sni=octopusss4.com&fp=chrome#freedom1
-vless://c35050ce-01ab-45a9-91b8-54cec637d0a8@elliot.ns.cloudflare.com:443?security=tls&encryption=none&type=ws&path=/udfyfws&host=octopusss5.info&sni=octopusss5.info&fp=chrome#freedom2
-vless://cabbfe13-038b-4dbb-9c45-5079c829abfa@speedtest.net:80?security=none&encryption=none&type=ws&path=/&host=max-gb1.global.ssl.fastly.net#freedom3
-vless://0058c215-ab1e-400c-a403-b5b2fda7e846@www.parsvds.com:8080?security=none&encryption=none&type=ws&path=/&host=tr-cd.sublink-vip2.com#freedom4
-vless://342cc065-f5dd-449d-8f27-02dcfd15130a@185.143.234.122:80?security=none&encryption=none&type=ws&path=/&host=ivh.ziroxcompany.ir#freedom5
+vless://c35050ce-01ab-45a9-91b8-54cec637d0a8@elliot.ns.cloudflare.com:443?security=tls&encryption=none&type=ws&path=/udfyfws&host=octopusss5.info&sni=octopusss5.info&fp=chrome#freedom1
+vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@betty.ns.cloudflare.com:443?security=tls&encryption=none&type=ws&path=/tsghdws&host=octopusss4.com&sni=octopusss4.com&fp=#freedom2
+vless://f76412c3-abdf-4318-baf8-4a1bfa438968@213.108.20.152:443?security=tls&encryption=none&sni=node-de-frankfurt.neverlock.uk&fp=#freedom3
+vless://0058c215-ab1e-400c-a403-b5b2fda7e846@151.101.0.1:80?security=none&encryption=none&type=ws&path=/&host=max-gb1.global.ssl.fastly.net#freedom4
+vless://7b241232-208d-4d36-857e-913f91b044f4@desrv-res.noooo.win:443?security=tls&encryption=none&sni=api-6a20f558.noooo.win&fp=edge#freedom5
