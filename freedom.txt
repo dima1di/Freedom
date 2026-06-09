@@ -1,2 +1,1 @@
-vless://e84064cc-617f-4ba8-aa6f-13e920fd2610@188.114.96.3:80?security=none&encryption=none&type=ws&path=/&host=main.boobie.eu.cc#freedom1
-vless://d98c1be3-7837-4d8a-a9fc-05e7a807ccb0@server1.poludiro.workers.dev:8080?security=none&encryption=none&type=ws&path=/eyJqdW5rIjoiSWZqSHF3Q2RLIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcmVmaXgiLCJwYW5lbElQcyI6WyJbMmEwMjo4OTg6MTQ2OjY0OjpdIl19?ed=2560&host=server1.poludiro.workers.dev#freedom2
+vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@45.130.125.0:443?security=tls&encryption=none&type=ws&path=/tsghdws&host=octopusss4.com&sni=octopusss4.com&fp=chrome#freedom1
