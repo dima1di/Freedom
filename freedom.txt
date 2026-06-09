@@ -1,5 +1,5 @@
-vless://6f1a1e67-7155-40cc-a24e-f4f1f5a6183b@158.160.46.238:443?security=reality&encryption=none&flow=xtls-rprx-vision&pbk=1vSZjvhZO01oAEH3b7eebR1qF5dLU1Dq2E7xu8pwGSs&sid=428ef87fd47a3a32&sni=rutube.ru&fp=qq#freedom1
-vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@185.18.250.245:443?security=tls&encryption=none&type=ws&path=/tsghdws&host=octopusss4.com&sni=octopusss4.com&fp=chrome#freedom2
-vless://e061314b-37a6-45da-b8dc-d23619294c72@51.250.4.238:443?security=reality&encryption=none&flow=xtls-rprx-vision&pbk=Ec54Eop0jZft7rcJsPN4RHc4xG9smXhtenM52pJFUQI&sid=27e53bbcab7593d7&sni=rutube.ru&fp=random#freedom3
-vless://def10dcd-7d96-4ce1-ae7b-97c1f132df2e@178.154.204.218:443?security=reality&encryption=none&flow=xtls-rprx-vision&pbk=ymfAk3W8rkjPYqsb5LTZePsR7GazEk4tBGTrAn-44Ro&sid=3f7738018d03aebe&sni=rutube.ru&fp=qq#freedom4
-vless://2add1736-6d0a-4235-a399-0d75aed151e4@51.250.106.87:443?security=reality&encryption=none&flow=xtls-rprx-vision&pbk=wgXD4k3A16WR0aL63N9Mx8xoqFigJLyQWJXi-l3MPXI&sid=8ec792bfd725be8a&sni=rutube.ru&fp=safari#freedom5
+vless://ef0ae83a-358f-03e8-b6ba-70b9578084c0@89.208.231.191:52006?security=tls&encryption=none&sni=89.208.231.191&fp=chrome#freedom1
+vless://6f1a1e67-7155-40cc-a24e-f4f1f5a6183b@158.160.46.238:443?security=reality&encryption=none&flow=xtls-rprx-vision&pbk=1vSZjvhZO01oAEH3b7eebR1qF5dLU1Dq2E7xu8pwGSs&sid=428ef87fd47a3a32&sni=rutube.ru&fp=qq#freedom2
+vless://def10dcd-7d96-4ce1-ae7b-97c1f132df2e@51.250.9.175:443?security=reality&encryption=none&flow=xtls-rprx-vision&pbk=HXP9HKqhQvwTwh0cgddJ3c3VND1lwRYRXgKfW1XPaX4&sid=bf0c3248f61fe277&sni=rutube.ru&fp=qq#freedom3
+vless://8c241159-7ab4-421d-87fb-34f872283612@51.250.95.42:443?security=reality&encryption=none&flow=xtls-rprx-vision&pbk=qpyc7QJdCOHqHOkdzoQeH7leZKi8c_ldUAhPmxImWFo&sid=e11822a0958dd1a3&sni=rutube.ru&fp=firefox#freedom4
+vless://3ce8cb5f-21f5-4140-9655-f163615b8405@51.250.24.222:443?security=reality&encryption=none&flow=xtls-rprx-vision&pbk=wgXD4k3A16WR0aL63N9Mx8xoqFigJLyQWJXi-l3MPXI&sid=8ec792bfd725be8a&sni=rutube.ru&fp=safari#freedom5
