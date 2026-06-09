@@ -1,5 +1,5 @@
-vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@162.159.193.138:443?security=tls&encryption=none&type=ws&path=/tsghdws&host=octopusss4.com&sni=octopusss4.com&fp=chrome#freedom1
-vless://e84064cc-617f-4ba8-aa6f-13e920fd2610@188.114.96.3:80?security=none&encryption=none&type=ws&path=/&host=main.boobie.eu.cc#freedom2
-vless://e84064cc-617f-4ba8-aa6f-13e920fd2610@188.114.96.3:80?security=none&encryption=none&type=ws&path=/&host=main.boobie.eu.cc#freedom3
-vless://e84064cc-617f-4ba8-aa6f-13e920fd2610@172.67.211.74:80?security=none&encryption=none&type=ws&path=/&host=main.boobie.eu.cc#freedom4
-vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@46.229.243.131:8443?security=tls&encryption=none&sni=cdn7-09.vk-cdnvideo.com&fp=chrome#freedom5
+vless://InternetAzadRobot@151.101.129.164:80?security=none&encryption=none#freedom1
+vless://96eec36e-2c44-5b09-898e-6f0f0526e57f@146.75.117.91:80?security=none&encryption=none#freedom2
+vless://5e6cd281-2d03-4e72-9bb2-b38ce2da7cc7@pl.moktana.app:443?security=reality&encryption=none#freedom3
+vless://96eec36e-2c44-5b09-898e-6f0f0526e57f@fastly.com:80?security=none&encryption=none#freedom4
+vless://5cdf99d3-a51b-570e-8245-f87d674dc652@151.101.129.57:80?security=none&encryption=none#freedom5
