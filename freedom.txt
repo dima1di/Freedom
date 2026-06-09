@@ -1,3 +1,4 @@
-vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@141.193.213.30:443?security=tls&encryption=none&type=ws&path=/tsghdws&host=octopusss4.com&sni=octopusss4.com&fp=#freedom1
-vless://f76412c3-abdf-4318-baf8-4a1bfa438968@213.108.20.152:443?security=tls&encryption=none&sni=node-de-frankfurt.neverlock.uk&fp=#freedom2
-vless://7b241232-208d-4d36-857e-913f91b044f4@desrv-res.noooo.win:443?security=tls&encryption=none&sni=api-6a20f558.noooo.win&fp=edge#freedom3
+vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@172.64.146.138:443?security=tls&encryption=none&type=ws&path=/tsghdws&host=octopusss4.com&sni=octopusss4.com&fp=#freedom1
+vless://c35050ce-01ab-45a9-91b8-54cec637d0a8@elliot.ns.cloudflare.com:443?security=tls&encryption=none&type=ws&path=/udfyfws&host=octopusss5.info&sni=octopusss5.info&fp=chrome#freedom2
+vless://f76412c3-abdf-4318-baf8-4a1bfa438968@213.108.20.152:443?security=tls&encryption=none&sni=node-de-frankfurt.neverlock.uk&fp=#freedom3
+vless://cabbfe13-038b-4dbb-9c45-5079c829abfa@151.101.0.1:80?security=none&encryption=none&type=ws&path=/&host=max-gb1.global.ssl.fastly.net#freedom4
