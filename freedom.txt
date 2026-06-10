@@ -1,5 +1,5 @@
-vless://abb540c3-6bda-43d1-8da9-b57a34c4f4ff@jndhmehdi.shahab--web.com:8081?security=none&encryption=none&type=tcp#freedom1
-vless://e84064cc-617f-4ba8-aa6f-13e920fd2610@main.boobie.eu.cc:80?security=none&encryption=none&type=ws&path=/&host=main.boobie.eu.cc#freedom2
-vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@betty.ns.cloudflare.com:443?security=tls&encryption=none&type=ws&path=/tsghdws&host=octopusss4.com&sni=octopusss4.com&fp=chrome#freedom3
-vless://0991a0c4-0ee5-4213-af89-7ad589f853f3@188.114.98.112:80?security=none&encryption=none&type=ws&path=/ELiV2-RAY----ELiV2-RAY----ELiV2-RAY----ELiV2-RAY----ELiV2-RAY----ELiV2-RAY&host=elenaaaaaaaaaa.cloudns.pro.#freedom4
-vless://cabbfe13-038b-4dbb-9c45-5079c829abfa@151.101.66.219:80?security=none&encryption=none&type=ws&path=/&host=max-gb1.global.ssl.fastly.net#freedom5
+vless://e84064cc-617f-4ba8-aa6f-13e920fd2610@main.boobie.eu.cc:80?security=none&encryption=none&type=ws&path=/&host=main.boobie.eu.cc#freedom1
+vless://0058c215-ab1e-400c-a403-b5b2fda7e846@199.232.197.131:80?security=&encryption=none&type=ws&path=/&host=max-gb1.global.ssl.fastly.net#freedom2
+vless://d7a8ae86-9904-4f71-8fe4-d754ded610d7@104.21.11.152:8080?security=&encryption=none&type=ws&path=/eyJqdW5rIjoiOHNqQ3Bqc2dTZlppTEl1IiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcmVmaXgiLCJwYW5lbElQcyI6WyJbMmEwMjo4OTg6MTQ2OjY0OjpdIl19?ed=2560&host=server6.diwir81236.workers.dev#freedom3
+vless://abe50676-d90e-4d13-8344-ee38c21da55a@188.114.97.6:443?security=tls&encryption=none&type=ws&path=/eyJqdW5rIjoiUDF3NHE0c1QiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByZWZpeCIsInBhbmVsSVBzIjpbIlsyYTAyOjg5ODoxNDY6NjQ6Ol0iXX0=?ed=2560&host=SiLeNt-tHUNdEr-8469.sHSFHhdfh.WOrkERS.dev&sni=SiLeNt-tHUNdEr-8469.sHSFHhdfh.WOrkERS.dev&fp=chrome#freedom4
+vless://c0615301-155b-4a20-b4c9-20c6f2f1c378@104.16.80.73:443?security=tls&encryption=none&type=ws&path=/eyJqdW5rIjoianU1aHQxd2J5ViIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=?ed=2560&host=blue-frost-dd9d.tvudwry.workers.dev&sni=bLUe-FRosT-Dd9D.tvUdWRY.woRKerS.dEv&fp=chrome#freedom5
