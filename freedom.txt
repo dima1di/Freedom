@@ -1,5 +1,5 @@
 vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@betty.ns.cloudflare.com:443?security=tls&encryption=none&type=ws&path=/tsghdws&host=octopusss4.com&sni=octopusss4.com&fp=chrome#freedom1
-vless://f76412c3-abdf-4318-baf8-4a1bfa438968@213.108.20.152:443?security=tls&encryption=none&type=tcp&sni=node-de-frankfurt.neverlock.uk&fp=chrome#freedom2
-vless://fe571bf6-1933-474f-baee-80722c08a4b4@138.201.173.163:20352?security=none&encryption=none&type=tcp#freedom3
-vless://c135158e-5869-4397-8116-6695ca18cd48@hongkongairport.com:443?security=tls&encryption=none&type=ws&path=%2F&host=cf.hulume.ccwu.cc&sni=cf.hulume.ccwu.cc&fp=chrome#freedom4
-vless://45643c5f-ffc2-46f3-b82c-329aea9962d4@server10.sotowoy673.workers.dev:8080?security=none&encryption=none&type=ws&path=/eyJqdW5rIjoiQkRZWDhCN01sIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcmVmaXgiLCJwYW5lbElQcyI6WyJbMmEwMjo4OTg6MTQ2OjY0OjpdIl19?ed=2560&host=server10.sotowoy673.workers.dev#freedom5
+vless://0058c215-ab1e-400c-a403-b5b2fda7e846@151.101.194.219:80?security=none&encryption=none&type=ws&path=/&host=max-gb1.global.ssl.fastly.net#freedom2
+vless://7b241232-208d-4d36-857e-913f91b044f4@196.196.35.30:443?security=tls&encryption=none&type=tcp&sni=api-6a20f558.noooo.win&fp=edge#freedom3
+vless://b03db3b9-6edb-4aef-8485-41c66e502487@www.speedtest.net:443?security=tls&encryption=none&type=ws&path=/eyJqdW5rIjoia2ZtMm5MdW16OUgiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119?ed%3D2560&host=24vVd-4ImrVfAqV7HqXYbu9wzjv378qI.V2RAYgulF.woRKeRS.DeV&sni=24vVd-4ImrVfAqV7HqXYbu9wzjv378qI.V2RAYgulF.woRKeRS.DeV&fp=chrome#freedom4
+vless://Argooovpnjoinbdh@188.114.97.6:8443?security=tls&encryption=none&type=ws&path=/&host=argoovpn.imanaghapour.ir&sni=argoovpn.imanaghapour.ir&fp=chrome#freedom5
