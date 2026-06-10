@@ -1,5 +1,5 @@
 vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@betty.ns.cloudflare.com:443?security=tls&encryption=none&type=ws&path=/tsghdws&host=octopusss4.com&sni=octopusss4.com&fp=chrome#freedom1
-vless://c135158e-5869-4397-8116-6695ca18cd48@hongkongairport.com:443?security=tls&encryption=none&type=ws&path=%2F&host=cf.hulume.ccwu.cc&sni=cf.hulume.ccwu.cc&fp=chrome#freedom2
-vless://fe571bf6-1933-474f-baee-80722c08a4b4@138.201.173.163:20352?security=none&encryption=none&type=tcp#freedom3
-vless://Argooovpnjoinbdh@188.114.97.6:8443?security=tls&encryption=none&type=ws&path=/&host=argoovpn.imanaghapour.ir&sni=argoovpn.imanaghapour.ir&fp=chrome#freedom4
-vless://7270612b-49f6-4b04-999c-34d8263da767@cosmin.ns.cloudflare.com:443?security=tls&encryption=none&type=ws&path=/aymdlws&host=picassooo.info&sni=picassooo.info&fp=chrome#freedom5
+vless://fe571bf6-1933-474f-baee-80722c08a4b4@138.201.173.163:20352?security=none&encryption=none&type=tcp#freedom2
+vless://c135158e-5869-4397-8116-6695ca18cd48@hongkongairport.com:443?security=tls&encryption=none&type=ws&path=%2F&host=cf.hulume.ccwu.cc&sni=cf.hulume.ccwu.cc&fp=chrome#freedom3
+vless://b03db3b9-6edb-4aef-8485-41c66e502487@www.speedtest.net:443?security=tls&encryption=none&type=ws&path=/eyJqdW5rIjoia2ZtMm5MdW16OUgiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119?ed%3D2560&host=24vVd-4ImrVfAqV7HqXYbu9wzjv378qI.V2RAYgulF.woRKeRS.DeV&sni=24vVd-4ImrVfAqV7HqXYbu9wzjv378qI.V2RAYgulF.woRKeRS.DeV&fp=chrome#freedom4
+vless://4b616b6f-6f6c-4e65-7773-b8e2c9f3d541@20.103.221.187:443?security=tls&encryption=none&type=ws&path=/&host=orange-train-4qjrv4vqwgrrhj9gv-443.app.github.dev&sni=orange-train-4qjrv4vqwgrrhj9gv-443.app.github.dev&fp=chrome#freedom5
