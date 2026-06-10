@@ -1,5 +1,5 @@
-vless://cabbfe13-038b-4dbb-9c45-5079c829abfa@167.82.0.1:80?security=none&encryption=none&type=ws&path=/&host=max-gb1.global.ssl.fastly.net#freedom1
-vless://7b241232-208d-4d36-857e-913f91b044f4@desrv-res.noooo.win:443?security=tls&encryption=none&type=tcp&sni=api-6a20f558.noooo.win&fp=edge#freedom2
-vless://0058c215-ab1e-400c-a403-b5b2fda7e846@151.101.0.1:80?security=none&encryption=none&type=ws&path=/&host=max-gb1.global.ssl.fastly.net#freedom3
-vless://f76412c3-abdf-4318-baf8-4a1bfa438968@213.108.20.152:443?security=tls&encryption=none&type=tcp&sni=node-de-frankfurt.neverlock.uk&fp=chrome#freedom4
-vless://6f1a1e67-7155-40cc-a24e-f4f1f5a6183b@51.250.66.16:443?security=reality&encryption=none&type=tcp&flow=xtls-rprx-vision&pbk=1vSZjvhZO01oAEH3b7eebR1qF5dLU1Dq2E7xu8pwGSs&sid=428ef87fd47a3a32&sni=rutube.ru&fp=qq#freedom5
+vless://0058c215-ab1e-400c-a403-b5b2fda7e846@199.232.197.131:80?security=none&encryption=none&type=ws&path=/&host=max-gb1.global.ssl.fastly.net#freedom1
+vless://f76412c3-abdf-4318-baf8-4a1bfa438968@213.108.20.152:443?security=tls&encryption=none&type=tcp&sni=node-de-frankfurt.neverlock.uk&fp=chrome#freedom2
+vless://8ea46bde-de0a-4864-96f0-af5c6ac9da36@personal.sabteahval.qzz.io:2083?security=tls&encryption=none&type=ws&path=/eyJqdW5rIjoibXhLcG43Z3hKR1pqRkRzIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ==?ed=2560&host=personal.sabteahval.qzz.io&sni=PersOnAL.sAbTeAHVAL.Qzz.iO&fp=chrome#freedom3
+vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@162.249.126.76:8443?security=tls&encryption=none&type=tcp&sni=cdn7-09.vk-cdnvideo.com&fp=chrome#freedom4
+vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@77.74.123.169:8443?security=tls&encryption=none&type=tcp&sni=cdn3-87.vk-cdnvideo.com&fp=chrome#freedom5
