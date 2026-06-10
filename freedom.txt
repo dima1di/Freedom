@@ -1,5 +1,5 @@
 vless://abb540c3-6bda-43d1-8da9-b57a34c4f4ff@jndhmehdi.shahab--web.com:8081?security=none&encryption=none&type=tcp#freedom1
-vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@betty.ns.cloudflare.com:443?security=tls&encryption=none&type=ws&path=/tsghdws&host=octopusss4.com&sni=octopusss4.com&fp=chrome#freedom2
-vless://0058c215-ab1e-400c-a403-b5b2fda7e846@151.101.0.1:80?security=none&encryption=none&type=ws&path=/&host=max-gb1.global.ssl.fastly.net#freedom3
-vless://fc8a0708-951a-4027-860f-2a154ebc4dd7@172.67.78.254:2083?security=tls&encryption=none&type=ws&path=/&host=crimson-king-301d.nexoxnet.workers.dev&sni=crimson-king-301d.nexoxnet.workers.dev&fp=chrome#freedom4
-vless://45643c5f-ffc2-46f3-b82c-329aea9962d4@server10.sotowoy673.workers.dev:8080?security=none&encryption=none&type=ws&path=/eyJqdW5rIjoiQkRZWDhCN01sIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcmVmaXgiLCJwYW5lbElQcyI6WyJbMmEwMjo4OTg6MTQ2OjY0OjpdIl19?ed=2560&host=server10.sotowoy673.workers.dev#freedom5
+vless://e84064cc-617f-4ba8-aa6f-13e920fd2610@main.boobie.eu.cc:80?security=none&encryption=none&type=ws&path=/&host=main.boobie.eu.cc#freedom2
+vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@betty.ns.cloudflare.com:443?security=tls&encryption=none&type=ws&path=/tsghdws&host=octopusss4.com&sni=octopusss4.com&fp=chrome#freedom3
+vless://0991a0c4-0ee5-4213-af89-7ad589f853f3@188.114.98.112:80?security=none&encryption=none&type=ws&path=/ELiV2-RAY----ELiV2-RAY----ELiV2-RAY----ELiV2-RAY----ELiV2-RAY----ELiV2-RAY&host=elenaaaaaaaaaa.cloudns.pro.#freedom4
+vless://cabbfe13-038b-4dbb-9c45-5079c829abfa@151.101.66.219:80?security=none&encryption=none&type=ws&path=/&host=max-gb1.global.ssl.fastly.net#freedom5
