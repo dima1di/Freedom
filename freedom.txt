@@ -1,10 +1,10 @@
 vless://3bb03d0d-d44d-47e9-9611-0f4a3a29498f@212.87.222.62:443?security=reality&encryption=none&type=tcp&flow=xtls-rprx-vision&pbk=heEiJwp6ZIwUkD6PVSwYwTthV7ybHCbpkS3qPBoqsHc&sid=c1663b15b964d89d&sni=united.lightningrus.ru&fp=firefox#freedom1
 vless://fd47216b-4217-4ec1-85b9-98304634a391@5.199.174.50:443?security=reality&encryption=none&type=tcp&flow=xtls-rprx-vision&pbk=Zq6qL8R76CWAsWlI1m_684JcC6Jw_kFAZNshxfjivB0&sid=6ba85179e30d4fc2&sni=statusdetector404.ru&fp=firefox#freedom2
-vless://b43c0481-77f7-48ad-af5e-91ebbdaccacc@45.195.110.23:8443?security=reality&encryption=none&type=tcp&flow=xtls-rprx-vision&pbk=66-fz0xjwauydj29EfFKyPHjJ2CIGaGSsJ6hsB--zAc&sid=de8d3223e7d85761&sni=storage.yandex.net&fp=firefox#freedom3
-vless://fb9e4c3a-936f-44c7-ac89-d5d422690fcf@77.239.114.176:19105?security=reality&encryption=none&type=tcp&flow=xtls-rprx-vision&pbk=IS6TNMONlIVvcUBvo2RXQvx2Jopcv4wzPyZhxPhWqT8&sid=e6&sni=www.microsoft.com&fp=chrome#freedom4
-vless://64c03b7a-f3f3-4d78-bc82-a233ced89cea@divar.ir.shakhle.ir:25000?security=reality&encryption=none&type=grpc&pbk=D9EktvCfJb5l8mBkJHx3U31BIUwIBHJKV85OzyNnDlU&sid=6ba85179e30d4fc3&sni=www.yahoo.com&fp=chrome#freedom5
-vless://Telegram-Parsashonam-12@188.114.97.6:443?security=tls&encryption=none&type=xhttp&sni=p4r34m.hendevaneh.sbs&fp=chrome#freedom6
+vless://fb9e4c3a-936f-44c7-ac89-d5d422690fcf@77.239.114.176:19105?security=reality&encryption=none&type=tcp&flow=xtls-rprx-vision&pbk=IS6TNMONlIVvcUBvo2RXQvx2Jopcv4wzPyZhxPhWqT8&sid=e6&sni=www.microsoft.com&fp=chrome#freedom3
+vless://ddfa2104-a780-486c-9403-198f9dc8914e@138.124.8.197:443?security=reality&encryption=none&type=xhttp&pbk=DZCJX3JXjcHltdj4wh5SRiz2gJ-pBl1cKskyK_KtQxI&sni=www.google.com&fp=random#freedom4
+vless://b43c0481-77f7-48ad-af5e-91ebbdaccacc@45.195.110.23:8443?security=reality&encryption=none&type=tcp&flow=xtls-rprx-vision&pbk=66-fz0xjwauydj29EfFKyPHjJ2CIGaGSsJ6hsB--zAc&sid=de8d3223e7d85761&sni=storage.yandex.net&fp=firefox#freedom5
+vless://Telegram-Parsashonam-12@104.16.75.127:443?security=tls&encryption=none&type=xhttp&sni=p4r34m.hendevaneh.sbs&fp=chrome#freedom6
 vless://d3eddb9e-33ef-4a6c-bfe3-663382612219@mal.malkopol.org:2087?security=tls&encryption=none&type=xhttp&sni=ZaAcRoQu8.MiNiChIlI.InFo&fp=chrome#freedom7
-vless://ddfa2104-a780-486c-9403-198f9dc8914e@138.124.8.197:443?security=reality&encryption=none&type=xhttp&pbk=DZCJX3JXjcHltdj4wh5SRiz2gJ-pBl1cKskyK_KtQxI&sni=www.google.com&fp=random#freedom8
+vless://e70ad57f-5b39-46f5-ba70-44953ad23164@45.153.190.26:443?security=reality&encryption=none&type=grpc&pbk=nbrx6gGjaQ27MLBl-0Tp23ALk9sm95NeOFxhP2ufO1E&sid=b6549e&sni=endeavouros.ubuntuhosting.host&fp=chrome#freedom8
 vless://a12ac1e4-c6dd-47e6-89c5-7de02dc096d8@ru125.mechvpn.online:443?security=tls&encryption=none&type=tcp&sni=ru125.mechvpn.online&fp=chrome#freedom9
-vless://1435f6f7-f53c-422e-b9ba-4eef2fa8d5f9@45.130.125.162:8443?security=tls&encryption=none&type=xhttp&sni=ssd.mojaz-persian-music.ir&fp=chrome#freedom10
+vless://6585a62b-4d8b-48cc-bdad-e2542504d748@45.131.4.173:8443?security=tls&encryption=none&type=xhttp&sni=Itsrezu2.dr-ping.com&fp=chrome#freedom10
