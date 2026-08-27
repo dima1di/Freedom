@@ -1,8 +1,11 @@
 vless://b712ae49-e20f-44d9-ae80-b81f399c5a3a@bz16.wba-pn.ru:2053?security=tls&encryption=none&type=ws&path=/&host=bz16.wba-pn.ru&sni=bz16.wba-pn.ru&fp=android#freedom1
 vless://34305560-ccd1-4466-bbff-09e606f4bc90@150.241.75.198:443?security=reality&encryption=none&type=tcp&flow=xtls-rprx-vision&pbk=V3uMWEfDQAPFP6o5ED8Jtk0rJBPs7IlOLf_Wh8w_jXc&sid=76132b3b39704c44&sni=lv1.hat.onl&fp=chrome#freedom2
-vless://f62a1751-c1e4-4612-90e7-bd5781c1aede@bz2.wba-pn.ru:2053?security=tls&encryption=none&type=ws&path=/&host=bz2.wba-pn.ru&sni=bz2.wba-pn.ru&fp=android#freedom3
-vless://e911c552-3a98-41e0-b5fb-0dd3879887b7@188.114.97.6:443?security=tls&encryption=none&type=ws&path=/api/v1/irc&host=vod.ensf.top&sni=vod.ensf.top&fp=unsafe#freedom4
-vless://f4ba862a-4d64-431a-9213-dd7aaafd476a@94.183.209.33:8443?security=reality&encryption=none&type=tcp&pbk=S_13TsXuoNyvkx6uf7JHJeuPX3G-nmSRMzn_hgcF3mk&sid=bafa6f22a3&sni=timeline.www.cloudflare.com&fp=firefox#freedom5
-vless://78791f9e-fe09-4d4f-88ec-895764bae0d6@94.183.209.58:33843?security=reality&encryption=none&type=grpc&pbk=HtztwkGs2v0zvTQK6L0fznidtVkxrZ-a8wLh9pwh6Fs&sid=01fd9c2b8e6144&sni=www.cloudflare.com&fp=firefox#freedom6
-vless://574ffae7-4df3-45e4-9064-683136b97b3a@94.183.209.37:33843?security=reality&encryption=none&type=grpc&pbk=lJwOjkaK43Iwmz2jfWZm5IV0UyT3Sw5ToS8BsE5VBys&sid=149adaf504&sni=www.cloudflare.com&fp=firefox#freedom7
-vless://9df64172-ca96-4fab-998c-d6412f5ad674@179.198.49.32:443?security=reality&encryption=none&type=tcp&flow=xtls-rprx-vision&pbk=t53ZdCzvE2oKpEa5Mr0Dzi7f0GjArqeoYn1Tto5ePDU&sid=7d42a8f5c19b603e&sni=www.cloudflare.com&fp=firefox#freedom8
+vless://f4ba862a-4d64-431a-9213-dd7aaafd476a@94.183.209.33:8443?security=reality&encryption=none&type=tcp&pbk=S_13TsXuoNyvkx6uf7JHJeuPX3G-nmSRMzn_hgcF3mk&sid=bafa6f22a3&sni=timeline.www.cloudflare.com&fp=firefox#freedom3
+vless://f62a1751-c1e4-4612-90e7-bd5781c1aede@bz2.wba-pn.ru:2053?security=tls&encryption=none&type=ws&path=/&host=bz2.wba-pn.ru&sni=bz2.wba-pn.ru&fp=android#freedom4
+vless://a704443d-655e-4d9f-8ce6-12eeb17a9a08@95.173.205.82:9443?security=reality&encryption=none&type=grpc&pbk=Zj7pfZMGav4r5mbPzpi5ohHue1r0El7QfnQt5nx2ljI&sid=56d5a8fb&sni=api-maps.yandex.ru&fp=firefox#freedom5
+vless://5e7ecc47-e424-4653-876e-c7515a2c82b4@94.183.209.43:33843?security=reality&encryption=none&type=grpc&pbk=mFLIx6qO9qtNTKCHiRV6_M3LzLtff_TU03sHwA2A3x4&sid=ed9e5b70102767a8&sni=www.cloudflare.com&fp=firefox#freedom6
+vless://9a47a8ff-8cdd-4a35-b765-fbad6d40e0a0@bz9.wba-pn.ru:2053?security=tls&encryption=none&type=ws&path=/&host=bz9.wba-pn.ru&sni=bz9.wba-pn.ru&fp=chrome#freedom7
+vless://b5ca5ab3-8cbc-4ac3-89da-9cd360589ecb@77.232.41.10:443?security=reality&encryption=none&type=xhttp&pbk=2P7D_IkxXWre3YziEe2tkF9L_gUbdZE_WCu9_SQq4hE&sid=2b5b1ffa8a6a1a68&sni=ya.ru&fp=qq#freedom8
+vless://7ab9fe4f-6699-427f-a828-9fcf2496d714@94.183.239.34:2053?security=reality&encryption=none&type=tcp&flow=xtls-rprx-vision&pbk=KDSUEqv-3PLzq_HIWHTk1TxXk-JovF9VeWtrMY4S_yM&sid=836466be157f908f&sni=www.cloudflare.com&fp=firefox#freedom9
+vless://395d040e-a04a-43d7-a1e9-8635f545879a@104.17.70.206:2096?security=tls&encryption=none&type=ws&path=/shalana&host=shalana.xyz&sni=shalana.xyz&fp=chrome#freedom10
+vless://2c7f1414-87ae-4a01-9796-a02c067891a6@176.109.88.216:443?security=reality&encryption=none&type=tcp&flow=xtls-rprx-vision&pbk=oqRus6Z_Q1jqJaTEPu7ENbRL0-XKOw54K0jwCCGLtEk&sid=a9c4f17e3b62d8&sni=api-maps.yandex.ru&fp=chrome#freedom11
