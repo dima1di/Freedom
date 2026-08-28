@@ -1,9 +1,6 @@
 vless://b712ae49-e20f-44d9-ae80-b81f399c5a3a@bz16.wba-pn.ru:2053?security=tls&encryption=none&type=ws&path=/&host=bz16.wba-pn.ru&sni=bz16.wba-pn.ru&fp=android#freedom1
 vless://4928c901-be72-4f81-8d59-091ce9e01692@84.32.106.178:443?security=reality&encryption=none&type=tcp&flow=xtls-rprx-vision&pbk=pU7ElcbPMVObHoWqGThioVD4i5ux_phWFwElN97aDSQ&sid=0f4dacf89993e21f&sni=sw.api-yandex.net&fp=firefox#freedom2
-vless://f62a1751-c1e4-4612-90e7-bd5781c1aede@bz2.wba-pn.ru:2053?security=tls&encryption=none&type=ws&path=/&host=bz2.wba-pn.ru&sni=bz2.wba-pn.ru&fp=android#freedom3
-vless://5bfc6650-8b56-0012-b0e9-b98fc6367c0d@82.40.62.229:443?security=reality&encryption=none&type=tcp&flow=xtls-rprx-vision&pbk=NBjOloEUgyAHoLqvcGo_t3jTY8Jya77j5dsNB1VJ8Bo&sid=0f4dacffd272e65f&sni=auto.api-yandex.net&fp=firefox#freedom4
-vless://34305560-ccd1-4466-bbff-09e606f4bc90@150.241.75.198:443?security=reality&encryption=none&type=tcp&flow=xtls-rprx-vision&pbk=V3uMWEfDQAPFP6o5ED8Jtk0rJBPs7IlOLf_Wh8w_jXc&sid=76132b3b39704c44&sni=lv1.hat.onl&fp=chrome#freedom5
-vless://e911c552-3a98-41e0-b5fb-0dd3879887b7@188.114.97.6:443?security=tls&encryption=none&type=ws&path=/api/v1/irc&host=vod.ensf.top&sni=vod.ensf.top&fp=unsafe#freedom6
-vless://7ab9fe4f-6699-427f-a828-9fcf2496d714@94.183.239.34:8443?security=reality&encryption=none&type=grpc&pbk=lvgY-QZ6xKUDusPI_2_DW7fyPDTGDezBf5-5ezqPcH0&sid=bcab2c5fdb17be80&sni=www.cloudflare.com&fp=firefox#freedom7
-vless://7ab9fe4f-6699-427f-a828-9fcf2496d714@94.183.209.239:8443?security=reality&encryption=none&type=grpc&pbk=SW9zmLl7IOPgwf55QKT7Hlc6Ruv6KEwO_wEXdOLwIz8&sid=0d81677f74c9a6bf&sni=www.cloudflare.com&fp=firefox#freedom8
-vless://f23f641d-b83b-0002-8046-c513696f7fe5@ru39.overseashost.ru:443?security=reality&encryption=none&type=tcp&flow=xtls-rprx-vision&pbk=5daY68T2-jYVVQ__Raq1a4ggV2d1kAdrR53YkRutZF0&sni=ru39.overseashost.ru&fp=firefox#freedom9
+vless://5bfc6650-8b56-0012-b0e9-b98fc6367c0d@82.40.62.229:443?security=reality&encryption=none&type=tcp&flow=xtls-rprx-vision&pbk=NBjOloEUgyAHoLqvcGo_t3jTY8Jya77j5dsNB1VJ8Bo&sid=0f4dacffd272e65f&sni=auto.api-yandex.net&fp=firefox#freedom3
+vless://f62a1751-c1e4-4612-90e7-bd5781c1aede@bz2.wba-pn.ru:2053?security=tls&encryption=none&type=ws&path=/&host=bz2.wba-pn.ru&sni=bz2.wba-pn.ru&fp=android#freedom4
+vless://2551555b-8f44-42e3-a3d7-ddb9a1670fa6@104.19.231.252:443?security=tls&encryption=none&type=ws&path=/&host=froshali.dearhossein-taktaz.ir&sni=froshali.dearhossein-taktaz.ir&fp=chrome#freedom5
+vless://dabb9a19-03ab-4cdf-8963-d3c45eb0f80d@lat2.freeinternat.com:443?security=reality&encryption=none&type=tcp&flow=xtls-rprx-vision&pbk=bZpzmeWiEJyJQy0W2hHc34Nr6BuFXj1UDd80Cbwh1Fk&sid=ff776ff77be48b88&sni=lat2.freeinternat.com&fp=firefox#freedom6
