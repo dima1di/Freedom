@@ -1,6 +1,6 @@
-vless://05bfcbaa-cba0-4bce-9103-09fe3f5f0667@65.109.238.140:443?security=tls&encryption=none&type=xhttp&sni=hel1.nordlinkcloud.com&fp=firefox#freedom1
-vless://d4cae7df-50a1-428c-bd62-881c8f3bbd90@5.199.174.25:443?security=reality&encryption=none&type=tcp&flow=xtls-rprx-vision&pbk=vrcsm8L_tY7sNbnCEdLCEjOthh_w9bdWS3wFPgsIomk&sid=4fa44664f6a566d3&sni=lt.superbuba.top&fp=firefox#freedom2
+vless://ef4f4c3d-0b16-48ad-a8d8-2d22512b3b36@fin.sdssh-vid.online:443?security=reality&encryption=none&type=tcp&flow=xtls-rprx-vision&pbk=74pbcWZE8Ne6iYrsl_31qy_pWKRrILQiAWfZs2IuGR0&sid=f3c4da18e7c4f4&sni=fin.sdssh-vid.online&fp=qq#freedom1
+vless://c6037cf7-d931-4027-af06-6bfb0f10684c@5.199.171.91:443?security=reality&encryption=none&type=tcp&flow=xtls-rprx-vision&pbk=m2b2LJrFWLTiy__FrxqnRKtnCK9g_eZPAz0Qnjdzbh4&sid=784aedb3&sni=apiv81.jarvesitw.ru&fp=firefox#freedom2
 vless://dabb9a19-03ab-4cdf-8963-d3c45eb0f80d@2.27.208.9:443?security=reality&encryption=none&type=tcp&flow=xtls-rprx-vision&pbk=bZpzmeWiEJyJQy0W2hHc34Nr6BuFXj1UDd80Cbwh1Fk&sid=ff776ff77be48b88&sni=fin4.freeinternat.com&fp=firefox#freedom3
-vless://c6037cf7-d931-4027-af06-6bfb0f10684c@5.199.171.91:443?security=reality&encryption=none&type=tcp&flow=xtls-rprx-vision&pbk=m2b2LJrFWLTiy__FrxqnRKtnCK9g_eZPAz0Qnjdzbh4&sid=784aedb3&sni=apiv81.jarvesitw.ru&fp=firefox#freedom4
-vless://395d040e-a04a-43d7-a1e9-8635f545879a@104.17.70.206:2096?security=tls&encryption=none&type=ws&path=/shalana&host=shalana.xyz&sni=shalana.xyz&fp=chrome#freedom5
-vless://fe1bec5d-e2f7-4d59-9ad9-4765588e8c04@78.17.187.134:2027?security=reality&encryption=none&type=xhttp&pbk=EApxy12MeXpqt-78odxizwcXT6hX9f8XeAcbMDVRAV0&sid=6ba7b8109dad11d1&sni=fn.skysafe.online&fp=firefox#freedom6
+vless://fe1bec5d-e2f7-4d59-9ad9-4765588e8c04@78.17.187.134:2027?security=reality&encryption=none&type=xhttp&pbk=EApxy12MeXpqt-78odxizwcXT6hX9f8XeAcbMDVRAV0&sid=6ba7b8109dad11d1&sni=fn.skysafe.online&fp=firefox#freedom4
+vless://469bc714-57c1-4091-8913-ff804b38bd3a@104.21.74.214:8443?security=tls&encryption=none&type=ws&path=/&host=maike-tison.briqivo.ir&sni=maike-tison.briqivo.ir&fp=chrome#freedom5
+vless://7e26fd8f-d75a-473d-84ba-9f4e3f47d086@172.67.173.191:443?security=tls&encryption=none&type=ws&path=/8qMLgNapWf6SBxo8fhQlVPYO&host=4-m20.e00e.ccwu.cc&sni=4-m20.e00e.ccwu.cc&fp=chrome#freedom6
