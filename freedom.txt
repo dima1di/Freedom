@@ -1,8 +1,4 @@
 vless://ef4f4c3d-0b16-48ad-a8d8-2d22512b3b36@fin.sdssh-vid.online:443?security=reality&encryption=none&type=tcp&flow=xtls-rprx-vision&pbk=74pbcWZE8Ne6iYrsl_31qy_pWKRrILQiAWfZs2IuGR0&sid=f3c4da18e7c4f4&sni=fin.sdssh-vid.online&fp=qq#freedom1
-vless://dabb9a19-03ab-4cdf-8963-d3c45eb0f80d@2.27.208.9:443?security=reality&encryption=none&type=tcp&flow=xtls-rprx-vision&pbk=bZpzmeWiEJyJQy0W2hHc34Nr6BuFXj1UDd80Cbwh1Fk&sid=ff776ff77be48b88&sni=fin4.freeinternat.com&fp=firefox#freedom2
-vless://3710fc0f-5f0c-4b9c-a5d4-40cb419e943a@144.31.93.231:443?security=reality&encryption=none&flow=xtls-rprx-vision&pbk=WKN5yaRN05O2WdCURXRmS-yBVYaabaFWOvGudX6ohWc&sid=b97e7d4582b6fa6e&sni=yandex.ru&fp=chrome#freedom3
-vless://1c332eae-7e02-4acd-996d-4eb3e652401c@144.31.50.236:443?security=reality&encryption=none&type=tcp&flow=xtls-rprx-vision&pbk=uitO4Z8t9TplwwYaqwLqh5rfxDh_X8bOBiNuPbzvaEM&sid=bbe46bd8f6b96839&sni=yandex.ru&fp=firefox#freedom4
-vless://65c56e1f-5c41-40bc-b0b5-9346772476ca@104.21.221.237:2053?security=tls&encryption=none&type=ws&path=/download/v3/installer-x64.bin&host=us.105794.xyz&sni=us.105794.xyz&fp=chrome#freedom5
-vless://a903a468-ce63-4f3b-a4de-332eb91cc2f0@193.239.179.15:443?security=reality&encryption=none&type=tcp&flow=xtls-rprx-vision&pbk=6dc3iKXilOQpA_JFrKlk5-CsFjSmOm_5p0kSQcO9qi4&sni=worldoftanks.com&fp=chrome#freedom6
-vless://5e7ecc47-e424-4653-876e-c7515a2c82b4@94.183.209.43:33843?security=reality&encryption=none&type=grpc&pbk=mFLIx6qO9qtNTKCHiRV6_M3LzLtff_TU03sHwA2A3x4&sid=ed9e5b70102767a8&sni=www.cloudflare.com&fp=firefox#freedom7
-vless://d7430ae7-320c-4658-808b-3006d0627d82@46.246.97.225:443?security=reality&encryption=none&type=grpc&pbk=QJW15WZWLNjA8KEpe4GqSdOe4rfW8KgqjjVmKxPk-ng&sid=3fa234ea9feaa048&sni=popos.ubuntuhosting.host&fp=firefox#freedom8
+vless://78791f9e-fe09-4d4f-88ec-895764bae0d6@94.183.209.58:8443?security=reality&encryption=none&type=tcp&pbk=7xIelzjHaRmVDs69Pf9qHySJSe4p2MmTNP-6wQru3Vo&sid=6c54&sni=blog.api.www.cloudflare.com&fp=firefox#freedom2
+vless://9a47a8ff-8cdd-4a35-b765-fbad6d40e0a0@bz9.wba-pn.ru:2053?security=tls&encryption=none&type=ws&path=/&host=bz9.wba-pn.ru&sni=bz9.wba-pn.ru&fp=chrome#freedom3
+vless://b3a11068-1a7e-4643-85de-7c82cce46943@77.83.198.45:34450?security=reality&encryption=none&type=grpc&pbk=wGMBs7bvzyzA0-OUiwSkOOTDEMdxEOsSdRzxiP8GGQY&sni=www.google.com&fp=qq#freedom4
