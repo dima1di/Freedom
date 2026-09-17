@@ -1,1 +1,1 @@
-vless://a95b3155-bc03-4789-b367-944b83be8f86@188.225.45.152:12096?encryption=none&flow=xtls-rprx-vision&fp=edge&pbk=Nq6KRzyjC95-W9JtG13EwPzNccKnZwMzhxEM_3zkdk8&security=reality&sid=fd5b64ba&sni=www.x5.ru&type=raw#🇨🇭 Резервный сервер
+vless://246b101b-4e4a-451f-8e9c-5e8d3b64b4ef@89.125.147.199:443?encryption=none&type=raw&headerType=none&security=reality&fp=firefox&pbk=iQJ8UdFw-lUWa9mXugescYHkmwNH96nuj_z-LAZvfxg&sni=maps.apple.com&sid=f6c7c139b9c938db#🇨🇭 Резервный сервер
