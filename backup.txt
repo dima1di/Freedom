@@ -1,1 +1,1 @@
-vless://8f67e374-53d9-43bb-85c9-a459a959cd1b@46.8.103.64:443?encryption=none&flow=xtls-rprx-vision&type=raw&headerType=none&security=reality&fp=firefox&pbk=zcB60qKELnjt8HqO_3lAE2qV1d-C8aZ7NXNSHv_iDV8&sni=reserve-1.lunoa.ru&sid=1f763fda79312e53#🇨🇭 Резервный сервер
+vless://a95b3155-bc03-4789-b367-944b83be8f86@188.225.45.152:12096?encryption=none&flow=xtls-rprx-vision&fp=qq&pbk=Nq6KRzyjC95-W9JtG13EwPzNccKnZwMzhxEM_3zkdk8&security=reality&sid=fd5b64ba&sni=www.x5.ru&type=raw#🇨🇭 Резервный сервер
