@@ -1,1 +1,1 @@
-vless://1c332eae-7e02-4acd-996d-4eb3e652401c@144.31.50.236:443?type=tcp&security=reality&sni=yandex.ru&fp=firefox&flow=xtls-rprx-vision&pbk=uitO4Z8t9TplwwYaqwLqh5rfxDh_X8bOBiNuPbzvaEM&sid=bbe46bd8f6b96839#🇨🇭 Резервный сервер
+vless://8ac637bf-554e-4902-94d7-baf01780a83c@edge.netraidly.ru:40443?encryption=none&flow=xtls-rprx-vision&type=raw&headerType=none&security=reality&fp=qq&pbk=mM33xyzf1GPaU2CQXAGYoGkTuYzEZRYT6S-NngyqfHQ&sni=deepl.com&sid=beb4#🇨🇭 Резервный сервер
