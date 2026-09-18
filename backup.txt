@@ -1,1 +1,1 @@
-vless://de78ba38-5600-47d1-b93b-b45bdf280ac0@195.123.212.60:15392?encryption=none&flow=xtls-rprx-vision&type=raw&headerType=none&security=reality&fp=firefox&pbk=TgaE-83sqLrJ6auwPP2Nq7vDO_xuFqa6uMnG4Au18jg&sni=intel.com&sid=82#🇨🇭 Резервный сервер
+vless://a95b3155-bc03-4789-b367-944b83be8f86@188.225.45.152:12096?encryption=none&flow=xtls-rprx-vision&fp=qq&pbk=Nq6KRzyjC95-W9JtG13EwPzNccKnZwMzhxEM_3zkdk8&security=reality&sid=fd5b64ba&sni=www.x5.ru&type=raw#🇨🇭 Резервный сервер
