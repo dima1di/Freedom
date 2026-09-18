@@ -1,1 +1,1 @@
-vless://b2141c97-76af-ff6f-839b-70a53e23aad9@62.233.39.9:443?mode=auto&path=%2F&security=reality&encryption=none&pbk=lDi6FDdd5qUFMjjR1JDidfUU2qE_U1L90VjNTzPyQhs&type=xhttp&sni=download.nvidia.com&fp=edge#🇨🇭 Резервный сервер
+vless://f79fe29a-39c9-445d-a6e9-85bfa76d5f02@37.18.15.103:443?type=ws&host=j8dvb.guardora.pro&path=/api/v2/client/session/connect&security=tls&sni=j8dvb.guardora.pro&fp=firefox#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%B3%F0%9F%87%B1%20%F0%9F%87%BA%F0%9F%87%BF%20%7C%20%5B*CIDR%5D%20CDN
