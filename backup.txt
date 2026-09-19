@@ -1,1 +1,1 @@
-vless://f79fe29a-39c9-445d-a6e9-85bfa76d5f02@37.18.15.103:443?encryption=none&security=tls&sni=j8dvb.guardora.pro&type=ws&host=j8dvb.guardora.pro&path=%2Fapi%2Fv2%2Fclient%2Fsession%2Fconnect&fp=safari#🇨🇭 Резервный сервер
+vless://e3b7044a-f11d-4fd9-b577-15ecc643607f@de.myfreedom.rest:443?encryption=none&type=tcp&security=reality&sni=cdn.callibri.ru&flow=xtls-rprx-vision&headerType=none&pbk=yCKV2xr725jI0sFhm4KbttKl8b9UZrnQTXxZLN2S4BM&sid=1f7f571b&allowInsecure=1&fp=firefox#🇨🇭 Резервный сервер
