@@ -1,1 +1,1 @@
-vless://7ce6f974-8290-48c2-b6ed-2c4c557dcebb@196.240.125.254:8443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=vusr-6ab04962.adhil.uk&type=tcp&fp=firefox#🇨🇭 Резервный сервер
+vless://Fluffy_VPN-zKZUa4Ie@72.56.38.83:443?encryption=none&flow=xtls-rprx-vision&pbk=ZzIetLcQtENjIXQ9XZqFo8p3J81p8Emj0wi51Uy07n8&security=reality&sni=absolute-disaster.org&type=tcp&fp=qq#🇨🇭 Резервный сервер
