@@ -1,1 +1,1 @@
-vless://cdd6bfce-781a-4454-b7d5-4778abb5c24f@posa6.api3-max.ru:443?type=tcp&headerType=none&security=tls&encryption=none&sni=posa6.api3-max.ru&alpn=h3&flow=xtls-rprx-vision&fp=firefox#🇨🇭 Резервный сервер
+vless://f07d9192-9d39-49fc-ba70-610fcb7fb176@85.193.84.151:443?encryption=none&flow=xtls-rprx-vision&pbk=Nn9qoyJqjiJH-PliIjmy8lPtl0mIo52B3p6AeWsHQT4&security=reality&sid=9d9d411dbf0c1130&sni=prayercurerecall.forumsociety.info&type=tcp&fp=edge#🇨🇭 Резервный сервер
