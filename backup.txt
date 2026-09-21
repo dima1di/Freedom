@@ -1,1 +1,1 @@
-vless://7ce6f974-8290-48c2-b6ed-2c4c557dcebb@nl.alpheratzz.org:8443?type=tcp&headerType=none&security=tls&encryption=none&sni=vusr-6ab04962.adhil.uk&alpn=h2&path=%2F&flow=xtls-rprx-vision&fp=firefox#🇨🇭 Резервный сервер
+vless://7ce6f974-8290-48c2-b6ed-2c4c557dcebb@196.240.125.254:8443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=vusr-6ab04962.adhil.uk&type=tcp&fp=firefox#🇨🇭 Резервный сервер
