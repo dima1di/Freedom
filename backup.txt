@@ -1,1 +1,1 @@
-vless://4bdeee92-97e8-414d-bef6-ec1d5e2ab73b@88.119.176.131:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=ahm4pdYV9YWZKriEIe_lxRyOMjcEDurqPmcxuk1suRU&security=reality&sid=928caf361fe6d95c&sni=litter.propper.beauty&type=tcp#🇨🇭 Резервный сервер [в разработке]
+vless://ddf09ad0-02dc-485b-9048-1038de5bebf0@152.233.54.104:443?mode=gun&security=reality&encryption=none&pbk=V4SeM4OMxXoSKBmmyC5C0kZEhgL33a5vVZBe7ysJ42U&fp=firefox&type=grpc&serviceName=grpc&sni=fi1.cache-4d8a.com&sid=0a30e2aee95a7571#🇨🇭 Резервный сервер [в разработке]
