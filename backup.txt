@@ -1,1 +1,2 @@
-vless://a95b3155-bc03-4789-b367-944b83be8f86@188.225.45.152:12096?encryption=none&flow=xtls-rprx-vision&fp=safari&pbk=Nq6KRzyjC95-W9JtG13EwPzNccKnZwMzhxEM_3zkdk8&security=reality&sid=fd5b64ba&sni=www.x5.ru&type=raw#🇨🇭 Резервный сервер [в разработке]
+vless://ddf09ad0-02dc-485b-9048-1038de5bebf0@152.233.54.104:443?type=grpc&mode=gun&serviceName=grpc&security=reality&fp=chrome&sni=fi1.cache-4d8a.com&pbk=V4SeM4OMxXoSKBmmyC5C0kZEhgL33a5vVZBe7ysJ42U&sid=0a30e2aee95a7571&spx=/AhmadV2rзy#🇨🇭 Резервный сервер [в разработке]
+
