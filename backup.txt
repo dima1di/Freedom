@@ -1,1 +1,1 @@
-vless://765390bc-1daf-41dd-9012-a04b93f07139@5.188.114.71:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=CmKaRa0TecpFSyn7OK6UTPPuWJ7ji2OwsaOBuUtSKGM&security=reality&sid=7a3f9e2b1c8d4f6a&sni=de-s3.ru&spx=%2F&type=raw#🇨🇭 Резервный сервер [в разработке]
+vless://8057eabc-921d-0003-9acb-80ccc6b48379@201.24.50.94:443?type=grpc&security=reality&pbk=wG3BS0H2EKpY2tpv9bWipTmafwIdXuUXPAZCpr1eZ0M&sni=kerbal.mafioznik.xyz&serviceName=Sosat&fp=firefox#🇨🇭 Резервный сервер [в разработке]
