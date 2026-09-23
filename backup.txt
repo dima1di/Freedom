@@ -1,1 +1,1 @@
-vless://f495298f-2bdb-4fd8-9ac9-5dd33d1b482a@ruffia2.thewalkingded.life:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=ruffia2.thewalkingded.life&pbk=j4M7_0Tl0UdSe4zYziALrPp_4F-QiSkyrUnOS6saQ1g&sid=a7162d100ab90645&spx=%2F&fp=edge#🇨🇭 Резервный сервер [в разработке]
+vless://a95b3155-bc03-4789-b367-944b83be8f86@188.225.45.152:12096?type=raw&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=Nq6KRzyjC95-W9JtG13EwPzNccKnZwMzhxEM_3zkdk8&sid=fd5b64ba&sni=www.x5.ru#🇨🇭 Резервный сервер [в разработке]
