@@ -1,1 +1,1 @@
-vless://ce230b9c-0531-40da-bc3f-f27a8e059db1@217.144.188.131:443?encryption=none&flow=xtls-rprx-vision&pbk=RoZB6zAaInm8X5feCKpL0_wMZRQYxQHWsirP0SYum2g&security=reality&sid=f3a9c21e8b6d4571&sni=admin.vkroom-it-service.xyz&type=tcp&fp=firefox#🇨🇭 Резервный сервер
+vless://7cde4592-4758-415f-8b97-c188faa4d1c9@84.32.101.70:443?mode=gun&security=reality&encryption=none&pbk=SiyX5MHMfE_232cYFpidAhU4eBxaoNphSSnNbVc1xnc&fp=firefox&type=grpc&serviceName=BookCatalog&sni=reg.jarbook.net&sid=085f6d90#🇨🇭 Резервный сервер
