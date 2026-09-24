@@ -1,1 +1,1 @@
-vless://e0b9fb0f-1bbd-478b-9580-c2294778338b@77.110.104.125:8443?encryption=none&type=grpc&serviceName=your-custom-path&security=reality&fp=chrome&pbk=OMlQAFrCMZ3DX0xlnbEZiByLBFzpUE8XJHJsrBzLdlY&sni=maps.apple.com&sid=2da4299da566b7#🇨🇭 Резервный сервер
+vless://c5694dc5-39fd-4a92-8430-3837baa522a3@91.240.86.186:443?security=reality&encryption=none&pbk=2ZUQYIhUijdJ1vRL8iR8RxjmJvRVHYp-JoWevQ2LyR4&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=yandex.ru&sid=7bb730e3e6616d31#🇨🇭 Резервный сервер
