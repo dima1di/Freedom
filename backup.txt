@@ -1,1 +1,1 @@
-vless://ac0c2945-b758-11f1-8181-54db13ea7d40@143.246.196.122:443?type=tcp&security=reality&sni=www.blocket.se&fp=safari&flow=xtls-rprx-vision&pbk=wSjV1yR_rhDUdoNbM9zIXNGLASLp9RorComnyoayo2c#🇨🇭 Резервный сервер
+vless://f495298f-2bdb-4fd8-9ac9-5dd33d1b482a@5.157.10.250:443?type=tcp&security=reality&sni=swebz.loozerp.wiki&fp=chrome&flow=xtls-rprx-vision&pbk=pgG2grngQEtOFJImLfz0AEm-O2IodM2jCY4aMCYQI1U&sid=6aa2d2e950441a9a#🇨🇭 Резервный сервер
