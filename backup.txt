@@ -1,1 +1,1 @@
-vless://AstroVPN_official@91.193.58.201:2087?mode=gun&security=tls&encryption=none&insecure=0&fp=chrome&type=grpc&serviceName=Canada&allowInsecure=0&sni=vp.accuratenetworkchecker.ir#🇨🇭Резервный
+vless://4cf9c712-11c4-47d8-aa31-a1693a1aa4e5@150.241.105.184:8443?mode=gun&security=reality&encryption=none&pbk=hXqnRjRf0FfXsWWfj-tJY9hxq7dDfu_KWB9udeNGkFI&fp=firefox&type=grpc&serviceName=germany3_grpc&sni=www.v2host.ru&sid=7791cacf0b57f34c#🇨🇭Резервный
