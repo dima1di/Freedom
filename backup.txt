@@ -1,1 +1,1 @@
-vless://a11cb858-4a42-4735-b40b-4cba1560b959@c1.greewebservices.ir:443?security=tls&type=xhttp&host=gerfgfdg.taghvimkaghazi.ir&alpn=h2&sni=gerfgfdg.taghvimkaghazi.ir&fp=chrome&encryption=none#🇨🇭Резервный
+vless://5d16ac22-6eea-426f-b778-6f4c2961faef@176.109.106.182:9881?security=reality&encryption=none&pbk=Dfgu8Ey0M8Hz4gXGZAwQ3H9jLt2HByVsjAOTWiuKDB0&type=grpc&serviceName=grpc-tunnel&sni=dl.google.com#🇨🇭Резервный
