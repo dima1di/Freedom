@@ -1,1 +1,1 @@
-vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@50.7.5.187:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=ireland-new-ded1.failspace.top&type=tcp#🇨🇭Резервный
+vless://f495298f-2bdb-4fd8-9ac9-5dd33d1b482a@angldril.pumpkinpie.study:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=angldril.pumpkinpie.study&pbk=W-zf_ncm9sYALF5EqvUsxqTkYGdAw-tQczT2SqwVMGE&sid=ff776ff77be48b88&fp=firefox&spx=/#🇨🇭Резервный
