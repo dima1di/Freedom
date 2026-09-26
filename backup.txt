@@ -1,1 +1,1 @@
-vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@hub-mori-new.failspace.top:443?security=tls&encryption=none&insecure=0&headerType=&type=tcp&allowInsecure=0&flow=xtls-rprx-vision#🇨🇭Резервный
+vless://AstroVPN_official@91.193.58.201:2087?mode=gun&security=tls&encryption=none&insecure=0&fp=chrome&type=grpc&serviceName=Canada&allowInsecure=0&sni=vp.accuratenetworkchecker.ir#🇨🇭Резервный
