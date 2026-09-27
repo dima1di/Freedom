@@ -1,1 +1,1 @@
-vless://5d16ac22-6eea-426f-b778-6f4c2961faef@176.109.106.182:9881?encryption=none&fp=&pbk=Dfgu8Ey0M8Hz4gXGZAwQ3H9jLt2HByVsjAOTWiuKDB0&security=reality&serviceName=grpc-tunnel&sni=dl.google.com&type=grpc#🇨🇭Резервный
+vless://25284368-40d5-4abe-9f56-54a07e88a7af@84.32.51.238:45977?security=reality&type=tcp&sni=lt-1.dzvn.space&fp=firefox&flow=xtls-rprx-vision&sid=f688ff32ece6b15f&pbk=5JPUCm5vkIUyBfwcgnkWXJNIW4CaWgBzXgT61cvWVVA#🇨🇭Резервный
