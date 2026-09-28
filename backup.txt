@@ -1,1 +1,1 @@
-vless://94877739-3af6-4fbb-85b6-ca6fe86c7696@84.32.98.254:443?security=reality&encryption=none&pbk=TRaUsnzFf-AhWUuW4RQUQOBYTdM-qJdLDTTkzQNkcRw&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=tickets.betust.net&sid=f70764f8#🇨🇭Резервный
+vless://94877739-3af6-4fbb-85b6-ca6fe86c7696@188.225.35.207:443?type=raw&security=reality&encryption=none&sni=demo.betust.net&fp=random&pbk=-lLmJilTNFk_DYxnbvWJH_swC9a5JRheZrN1KPVMjCc&sid=219a891b&flow=xtls-rprx-vision&headerType=none#🇨🇭Резервный
