@@ -1,1 +1,1 @@
-vless://94877739-3af6-4fbb-85b6-ca6fe86c7696@match.betust.net:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=OINuDFEDTdmtFR8QRxAZfQIMPA-wJxfGN1LjB3TFUHo&sid=535a3304&sni=apiv12nd.goonars.com#🇨🇭Резервный
+vless://5d16ac22-6eea-426f-b778-6f4c2961faef@176.108.247.67:9881?encryption=none&fp=&pbk=Dfgu8Ey0M8Hz4gXGZAwQ3H9jLt2HByVsjAOTWiuKDB0&security=reality&serviceName=grpc-tunnel&sid=aabb&sni=dl.google.com&type=grpc#🇨🇭Резервный
