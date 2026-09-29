@@ -1,1 +1,1 @@
-vless://365de9e9-ba29-4819-af2d-766f9638e3be@37.139.42.179:443?encryption=none&host=vyvoz-musora.cc&path=%2Fe8ws&security=tls&sni=vyvoz-musora.cc&type=ws&fp=firefox#🇨🇭Резервный
+vless://22a375e0-f7c6-4d8f-a154-81189914bbf4@89.105.197.202:443?type=tcp&sid=64c1fe36c7846400&headerType=none&pbk=mza5Hn1aolSz65qu-UwvBP3oesxMe25r11o4nxvikF0&encryption=none&sni=findmypackets.com&security=reality&flow=xtls-rprx-vision&alpn=networld_vpn-channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-#🇨🇭Резервный
