@@ -1,1 +1,1 @@
-vless://22a375e0-f7c6-0003-a154-81189914bbf4@89.105.197.204:443?security=reality&encryption=none&pbk=mza5Hn1aolSz65qu-UwvBP3oesxMe25r11o4nxvikF0&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=anyfile2file.com&sid=93ae75024604f796#🇨🇭Резервный
+vless://80f72027-2201-4541-9abb-7070c9b0869e@151.241.166.137.sslip.io:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=151.241.166.137.sslip.io&fp=random&pbk=HhY8AOOPbY7Aah3XHlAUYYbXR8kSncqslAvY8iUbnUc&sid=90265b4bea0f563a&type=tcp#🇨🇭Резервный
