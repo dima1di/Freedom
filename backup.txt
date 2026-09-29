@@ -1,1 +1,1 @@
-vless://80f72027-2201-4541-9abb-7070c9b0869e@151.241.166.137.sslip.io:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=151.241.166.137.sslip.io&fp=random&pbk=HhY8AOOPbY7Aah3XHlAUYYbXR8kSncqslAvY8iUbnUc&sid=90265b4bea0f563a&type=tcp#🇨🇭Резервный
+vless://365de9e9-ba29-4819-af2d-766f9638e3be@37.139.42.179:443?encryption=none&host=vyvoz-musora.cc&path=%2Fe8ws&security=tls&sni=vyvoz-musora.cc&type=ws&fp=firefox#🇨🇭Резервный
