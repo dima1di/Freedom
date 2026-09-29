@@ -1,1 +1,1 @@
-vless://80f72027-2201-4541-9abb-7070c9b0869e@151.241.166.137.sslip.io:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=151.241.166.137.sslip.io&fp=random&pbk=HhY8AOOPbY7Aah3XHlAUYYbXR8kSncqslAvY8iUbnUc&sid=90265b4bea0f563a&type=tcp#🇨🇭Резервный
+vless://e327401a-0897-4d45-8d5a-af685c7ee363@sw.shhflow.xyz:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=sw.shhflow.xyz&fp=random&pbk=0gjEApZ0V3smDLC8BbSaSSFMnQIzPRBh5rQ40K-LIVM&type=tcp#🇨🇭Резервный
