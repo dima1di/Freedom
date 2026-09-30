@@ -1,1 +1,1 @@
-vless://0dca2cfe-98eb-4f9d-9a47-cf87510c558b@45.132.177.76:443?encryption=none&fp=firefox&security=tls&serviceName=cdn.v1.PlService&sni=ru3.pleiades.codes&type=grpc#🇨🇭Резервный
+vless://6db6b948-655f-4f68-a9e7-865050e05b31@201.10.90.202:443?encryption=none&fp=firefox&pbk=jOOQIxM4PRxWaZDfTj_63smCGJX_inthmmb8WG-SIHI&security=reality&sid=6fda&sni=lineartronic-ii.subaru-volga.com&type=tcp#🇨🇭Резервный
