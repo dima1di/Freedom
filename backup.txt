@@ -1,1 +1,1 @@
-vless://50414e45-4c5f-5a45-5553-6f3c5a20fcd8@qkzh44eaul4s.n2za73e1u2xs.workers.dev:443?path=%2Fstream%2FPANEL_ZEUS%2F6f3c5a20fcd8&security=tls&encryption=none&insecure=0&host=qkzh44eaul4s.n2za73e1u2xs.workers.dev&type=ws&allowInsecure=0&sni=qkzh44eaul4s.n2za73e1u2xs.workers.dev#🇨🇭Резервный
+vless://39abda72-f5a5-4ede-9862-bbb8109aba73@megariverport-nayab.org:443?&security=tls&fp=chrome&alpn=h2http%2F1.1&sni=bkkkl.maxsparkbox-bekhabdg.site&type=ws&headerType=none&host=bkkkl.maxsparkbox-bekhabdg.site&path=%2Fbaran#🇨🇭Резервный
