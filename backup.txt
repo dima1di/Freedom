@@ -1,1 +1,1 @@
-vless://e37b223d-c602-4be9-8ce0-eca27841ec8b@nl-ded3.gamma-kvn.com:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&flow=xtls-rprx-vision#🇨🇭Резервный
+vless://80f72027-2201-4541-9abb-7070c9b0869e@151.241.166.137:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=HhY8AOOPbY7Aah3XHlAUYYbXR8kSncqslAvY8iUbnUc&sid=90265b4bea0f563a&sni=151.241.166.137.sslip.io#🇨🇭Резервный
