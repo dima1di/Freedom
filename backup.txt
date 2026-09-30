@@ -1,1 +1,1 @@
-vless://39abda72-f5a5-4ede-9862-bbb8109aba73@megariverport-nayab.org:443?&security=tls&fp=chrome&alpn=h2http%2F1.1&sni=bkkkl.maxsparkbox-bekhabdg.site&type=ws&headerType=none&host=bkkkl.maxsparkbox-bekhabdg.site&path=%2Fbaran#🇨🇭Резервный
+vless://3423809a-08e5-4b93-bd76-c6cdcbfd9b52@www.speedtest.net:443?alpn=http%2F1.1&fp=chrome&host=bn1jywok-7txq9p7e.fbgbjr7g344b78sqlruz7u621njij.workers.dev&path=%2Fvl%2FqAuPpP8UsUmtA5NiXmiGs&security=tls&sni=bn1jywok-7txq9p7e.fbgbjr7g344b78sqlruz7u621njij.workers.dev&type=ws#🇨🇭Резервный
