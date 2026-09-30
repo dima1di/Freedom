@@ -1,1 +1,1 @@
-vless://3423809a-08e5-4b93-bd76-c6cdcbfd9b52@www.speedtest.net:443?alpn=http%2F1.1&fp=chrome&host=bn1jywok-7txq9p7e.fbgbjr7g344b78sqlruz7u621njij.workers.dev&path=%2Fvl%2FqAuPpP8UsUmtA5NiXmiGs&security=tls&sni=bn1jywok-7txq9p7e.fbgbjr7g344b78sqlruz7u621njij.workers.dev&type=ws#🇨🇭Резервный
+vless://e37b223d-c602-4be9-8ce0-eca27841ec8b@nl-ded3.gamma-kvn.com:443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&flow=xtls-rprx-vision#🇨🇭Резервный
