@@ -1,1 +1,1 @@
-vless://80f72027-2201-4541-9abb-7070c9b0869e@151.241.166.137:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=HhY8AOOPbY7Aah3XHlAUYYbXR8kSncqslAvY8iUbnUc&sid=90265b4bea0f563a&sni=151.241.166.137.sslip.io#🇨🇭Резервный
+vless://fffe33b6-5735-4a71-adb1-1c154def9024@34.154.18.129:443?&security=reality&pbk=-Tb9KKp870JxcZ3Ka7Rx5ez3QBYryX4e8_jdyNZu2wE&sid=ed278463058a6dc9&fp=chrome&sni=www.cloudflare.com&type=tcp&headerType=none&host=www.cloudflare.com&path=%2F#🇨🇭Резервный
