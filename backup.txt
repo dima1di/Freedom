@@ -1,1 +1,1 @@
-vless://4abdfe42-aec7-4b66-974d-3f891e2e8184@185.80.234.87:443?type=grpc&security=reality&fp=firefox&pbk=Zl6Fe6WYQuaFe_QNUB4qU7nRkGujy7LqjoQ96GO3jUc&sni=nlll.gaz-service.shop&serviceName=grpc#🇨🇭Резервный
+vless://fae09ec8-642b-4750-a019-27a97cd967fd@www.speedtest.net:443?alpn=http/1.1&ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&fp=chrome&host=ez-3e9698.ezaccess1ec1f0c.workers.dev&path=/eyJqdW5rIjoib0FkbVU0Vm5ITkQiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119&security=tls&sni=ez-3e9698.ezaccess1ec1f0c.workers.dev&type=ws#🇨🇭Резервный
