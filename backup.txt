@@ -1,1 +1,1 @@
-vless://4bdeee92-97e8-414d-bef6-ec1d5e2ab73b@95.85.254.153:443?security=reality&encryption=none&pbk=bZpzmeWiEJyJQy0W2hHc34Nr6BuFXj1UDd80Cbwh1Fk&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=polka.stopingiphatered.shop&sid=ff776ff77be48b88#🇨🇭Резервный
+vless://a47843cc-7583-419e-8eab-6492fa55b5cd@legenda-bm-s1518.reverseenge.sbs:443?security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=PnJR7EWijGlzVtRNpXu74L1wTQmNr369VZCc10K-rlE&sni=legenda-bm-s1518.reverseenge.sbs#🇨🇭Резервный
