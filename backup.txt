@@ -1,1 +1,1 @@
-vless://a73ffbb0-e22a-4948-980e-77440aefcc5f@se-0c3f9a93.sishka.network:443?flow=xtls-rprx-vision&encryption=none&sid=023d4c88fb030f39&fp=chrome&fm=AhmadV2ray&pbk=uYiZWRgbowvS9uOhVZTe0FBS1pLzA3QMyQ_NfDh4_h8&security=reality&spx=/AhmadV2ray&sni=se-0c3f9a93.sishka.network&headerType=none&type=tcp#🇨🇭Резервный
+vless://0dca2cfe-98eb-4f9d-9a47-cf87510c558b@176.108.253.133:443?encryption=none&security=tls&serviceName=cdn.v1.PlService&sni=pli.g4m1.biz&type=grpc&fp=firefox#🇨🇭Резервный
