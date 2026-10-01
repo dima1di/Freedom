@@ -1,1 +1,1 @@
-vless://d4cae7df-50a1-428c-bd62-881c8f3bbd90@212.46.33.90:443?security=reality&encryption=none&pbk=z37XIezsPyfMgmdXyFd9qT4C4maDAs1OcRt-wfyrXVo&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=slowkd.sadiepinki.com&sid=9c2378562188c3cb#🇨🇭Резервный
+vless://a47843cc-7583-419e-8eab-6492fa55b5cd@legenda-bm-s1518.reverseenge.sbs:443?security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=PnJR7EWijGlzVtRNpXu74L1wTQmNr369VZCc10K-rlE&sni=legenda-bm-s1518.reverseenge.sbs#🇨🇭Резервный
