@@ -1,1 +1,1 @@
-vless://4bdeee92-97e8-414d-bef6-ec1d5e2ab73b@88.119.176.131:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=ahm4pdYV9YWZKriEIe_lxRyOMjcEDurqPmcxuk1suRU&security=reality&sid=928caf361fe6d95c&sni=litter.propper.beauty&type=tcp#🇨🇭Резервный
+vless://4643976f-85fa-40cf-9e58-ea28b50f253b@93.115.24.216:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=SB1uC0OEveYjSiS_Nuw9Ld-uVVXWqi794OGnldthY3I&security=reality&sni=litva1.ali-bard.online&type=tcp#🇨🇭Резервный
