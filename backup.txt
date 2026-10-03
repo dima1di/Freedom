@@ -1,1 +1,1 @@
-vless://87fd990d-ca93-440a-bbd4-e8281c4a0910@31.59.206.218:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=pl3.cloud-static.org&pbk=cIgH-cz8JCjHnPQXA4qZNpYWwgYdVKCX3jDhuDbVK24&sid=96ef4f5dd00f1ba0&fp=edge&spx=%2F#🇨🇭Резервный
+vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@chubby0.failspace.top:443?type=tcp&security=tls&sni=chubby0.failspace.top&fp=chrome&alpn=h2&encryption=none&flow=xtls-rprx-vision#🇨🇭Резервный
