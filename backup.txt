@@ -1,1 +1,1 @@
-vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@chubby0.failspace.top:443?type=tcp&security=tls&flow=xtls-rprx-vision&sni=chubby0.failspace.top&fp=qq#🇨🇭Резервный
+vless://03db1807-b379-4ad7-80e8-fb4aea68b1da@sourceforge.net:8880?path=%2F%3Fed%3D2082&security=none&encryption=mlkem768x25519plus.random.0rtt.iZJwXenO31gj30xJyjEnDZ_qxA-iUdzbT1zdrr8Mbmo&host=ckdkrr.varzeshfotsal.ir&type=httpupgrade#🇨🇭Резервный
