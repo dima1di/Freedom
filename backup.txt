@@ -1,1 +1,1 @@
-vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@chubby0.failspace.top:443?type=tcp&security=tls&sni=chubby0.failspace.top&fp=chrome&alpn=h2&encryption=none&flow=xtls-rprx-vision#🇨🇭Резервный
+vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@chubby0.failspace.top:443?type=tcp&security=tls&flow=xtls-rprx-vision&sni=chubby0.failspace.top&fp=qq#🇨🇭Резервный
