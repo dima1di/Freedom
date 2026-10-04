@@ -1,1 +1,1 @@
-vless://c4394e27-baeb-422d-8905-a93f8e01126f@cdn2.alihapp.com:443?mode=auto&path=/&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=cdn2.alihapp.com&fp=chrome&type=xhttp&allowInsecure=0&sni=cdn2.alihapp.com#🇨🇭Резервный
+vless://7610be85-9855-4010-8929-ce16d4993969@188.225.25.195:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=Fe_144ALuRRedGs06ljDnE1f_G2B2wE4i9_diqw5LnY&security=reality&sid=a16bc894&sni=app25.betust.net&spx=%2F&type=raw#🇨🇭Резервный
