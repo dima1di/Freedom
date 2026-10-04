@@ -1,1 +1,1 @@
-vless://6db6b948-655f-4f68-a9e7-865050e05b31@130.78.190.5:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=S4zHOXTm7KrQCl98pFNjYZu3VOK15zqOZNekYlFGfTQ&security=reality&sid=1f82ac&sni=play.murka.fun&type=tcp#🇨🇭Резервный
+vless://7610be85-9855-4010-8929-ce16d4993969@app26.betust.net:443?type=tcp&headerType=none&security=reality&encryption=none&sni=app26.betust.net&fp=firefox&pbk=5pR15ATlWW3tVzfnMN3xoiN56LjIUbhnOMp37ZvTFUc&sid=d44d6d46&spx=%2F&flow=xtls-rprx-vision#🇨🇭Резервный
