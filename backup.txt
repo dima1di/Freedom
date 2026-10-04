@@ -1,1 +1,1 @@
-vless://f8a9654f-252e-bc36-1ba0-d7b6691bff7d@45.88.13.6:443?encryption=none&security=reality&sni=download.nvidia.com&fp=random&pbk=FOQzn10eHqu4F5xOxiXW2bTDG8lH4TdOXP6A5rDqKFk&type=xhttp&path=%2F&mode=auto#🇨🇭Резервный
+vless://c4394e27-baeb-422d-8905-a93f8e01126f@cdn9.alihapp.com:443?mode=auto&path=/&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=cdn9.alihapp.com&fp=chrome&type=xhttp&allowInsecure=0&sni=cdn9.alihapp.com#🇨🇭Резервный
