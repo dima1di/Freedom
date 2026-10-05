@@ -1,1 +1,1 @@
-vless://c20751de-06c3-4044-b6a4-eebc9b040d92@swebz.loozerp.wiki:443?security=reality&encryption=none&pbk=pgG2grngQEtOFJImLfz0AEm-O2IodM2jCY4aMCYQI1U&headerType=&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=swebz.loozerp.wiki&sid=6aa2d2e950441a9a#🇨🇭Резервный
+vless://3464a5bd-6a17-4ac3-8ca9-86a54c1aac7b@node30.tomalgopas.fun:443?type=grpc&security=reality&fp=chrome&pbk=i_Sd0kYj7__gC194xWMv-rFFwlY-ThG0W5crD3Ox8Rc&sni=samsung.com&mode=gun&serviceName=vless-grpc#🇨🇭Резервный
