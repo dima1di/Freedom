@@ -1,1 +1,1 @@
-vless://9fc8f028-06ed-3a03-9ace-da78b660583f@104.245.243.9:443?path=%2F&security=reality&encryption=none&pbk=sbBzEDf7UllUslF6LTfsM1qiOW322QKM343zhJD0Lng&type=xhttp&sni=cdn.steamstatic.com&fp=firefox#🇨🇭Резервный
+vless://7610be85-9855-4010-8929-ce16d4993969@188.225.35.207:443?security=reality&encryption=none&pbk=-lLmJilTNFk_DYxnbvWJH_swC9a5JRheZrN1KPVMjCc&host=/?Telegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=demo.betust.net&sid=219a891b#🇨🇭Резервный
