@@ -1,1 +1,1 @@
-vless://3464a5bd-6a17-4ac3-8ca9-86a54c1aac7b@node30.tomalgopas.fun:443?type=grpc&security=reality&fp=chrome&pbk=i_Sd0kYj7__gC194xWMv-rFFwlY-ThG0W5crD3Ox8Rc&sni=samsung.com&mode=gun&serviceName=vless-grpc#🇨🇭Резервный
+vless://7610be85-9855-4010-8929-ce16d4993969@188.225.35.207:443?security=reality&encryption=none&pbk=-lLmJilTNFk_DYxnbvWJH_swC9a5JRheZrN1KPVMjCc&host=/?Telegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=demo.betust.net&sid=219a891b#🇨🇭Резервный
