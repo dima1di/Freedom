@@ -1,1 +1,1 @@
-vless://35f9c540-85cf-a4da-aca5-833daaa0bfc8@104.245.240.5:443?path=%2F&security=reality&encryption=none&pbk=tl7xSwczBM--oN16cxdLnAD8GMf8tA0f-FXE9ilCCjA&fp=chrome&type=xhttp&sni=download.intel.com#🇨🇭Резервный
+vless://3063a36b-7d78-40f6-8b85-0f61cb5908a2@103.139.51.35:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=trust2.figmafound.org&fp=random&pbk=H5CXI4RvEWW0TFPvFrnF1iX-05Y57ZYMMngjmkMfv24&sid=711ad7f475c35e5e&type=tcp#🇨🇭Резервный
