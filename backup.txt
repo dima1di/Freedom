@@ -1,1 +1,1 @@
-vless://7610be85-9855-4010-8929-ce16d4993969@app26.betust.net:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=5pR15ATlWW3tVzfnMN3xoiN56LjIUbhnOMp37ZvTFUc&sid=d44d6d46&sni=app26.betust.net#🇨🇭Резервный
+vless://e90759b7-6454-4b3a-8453-279e6f496f3a@nl1.jetservaki.fit:443?mode=gun&security=reality&encryption=none&pbk=qYmjDdoe-W9e55-Rs6u_G4HCHMk31G_qj0t1Q4_BcUg&fp=firefox&type=grpc&serviceName=grpc&sni=nl1.jetservaki.fit&sid=884b938083b628d2#🇨🇭Резервный
