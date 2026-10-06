@@ -1,1 +1,1 @@
-vless://87fd990d-ca93-440a-bbd4-e8281c4a0910@31.59.206.218:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=pl3.cloud-static.org&fp=random&pbk=cIgH-cz8JCjHnPQXA4qZNpYWwgYdVKCX3jDhuDbVK24&sid=96ef4f5dd00f1ba0&spx=%2F&type=tcp#🇨🇭Резервный
+vless://cb8fbad5-4f14-55bc-a24a-3510f47f4b1b@assets.halyvanedorogo.ru:11515?security=reality&encryption=none&pbk=A826RSu-yeVM_t6v7kwHKasHSdfI9KOzUw3WaIa9SWc&headerType=&fp=chrome&spx=/EL8OY1VX47km1uf&type=tcp&flow=xtls-rprx-vision&sni=www.sony.com&sid=65149fc5ba#🇨🇭Резервный
