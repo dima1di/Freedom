@@ -1,1 +1,1 @@
-vless://cb8fbad5-4f14-55bc-a24a-3510f47f4b1b@assets.halyvanedorogo.ru:11515?security=reality&encryption=none&pbk=A826RSu-yeVM_t6v7kwHKasHSdfI9KOzUw3WaIa9SWc&headerType=&fp=chrome&spx=/EL8OY1VX47km1uf&type=tcp&flow=xtls-rprx-vision&sni=www.sony.com&sid=65149fc5ba#🇨🇭Резервный
+vless://c20751de-06c3-4044-b6a4-eebc9b040d92@swebz.loozerp.wiki:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=swebz.loozerp.wiki&fp=qq&security=reality&pbk=pgG2grngQEtOFJImLfz0AEm-O2IodM2jCY4aMCYQI1U&sid=6aa2d2e950441a9a#🇨🇭Резервный
