@@ -1,1 +1,1 @@
-vless://20ef7310-0b50-4943-98a6-3d0856b383b1@fi.alpheratzz.org:443/?type=xhttp&encryption=none&flow=&host=fi.alpheratzz.org&path=%2F&mode=auto&security=tls&sni=20ef7310.ferrin.uk&alpn=h2&fp=edge#🇨🇭Резервный
+vless://e75ad2eb-6c1f-45ce-8023-f5f10875df66@37.143.129.193:443?type=grpc&security=reality&fp=firefox&pbk=wkOdDtGijULUqkGSJv2aHGctI7Ss8GnOE1iS8QNwwjo&sid=98e90c117acf8155&sni=fi9.eu-cdn294.com&serviceName=1f251e273f#🇨🇭Резервный
