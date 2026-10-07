@@ -1,1 +1,1 @@
-vless://579b72a5-785a-4fb6-ac64-1de2f8c49601@pol1.trufflevpn.fun:443?security=reality&encryption=none&pbk=8DG3Xbo7RZIBPUW077xOvmdf9LVSo7Pq7Ll0PqJ5oko&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=cloudflare.com#🇨🇭Резервный
+vless://87fd990d-ca93-440a-bbd4-e8281c4a0910@31.59.205.36:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=cIgH-cz8JCjHnPQXA4qZNpYWwgYdVKCX3jDhuDbVK24&security=reality&sid=96ef4f5dd00f1ba0&sni=pl3.cloud-static.org&type=tcp#🇨🇭Резервный
