@@ -1,1 +1,1 @@
-vless://d2519b5e-495e-462e-9703-bbf68011d2f3@50.7.122.243:443?type=grpc&security=tls&fp=firefox&sni=djsfhsidkjn.fdc.video-mvm.ru#🇨🇭Резервный
+vless://d2519b5e-495e-462e-9703-bbf68011d2f3@50.7.221.243:443?type=grpc&security=tls&fp=firefox&sni=r4vsdfmsdlf8n3.fdc.video-mvm.ru#🇨🇭Резервный
