@@ -1,1 +1,1 @@
-vless://3d1752a5-2832-4981-878d-f4aca87d6f86@64.188.119.73:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=zvLIiZsAqG2Uz9FEBPJ1q2P6lUmG4SBv-M7vlDuqEFo&sid=421880b82d&sni=ocd1.global-media-cache.com#🇨🇭Резервный
+vless://81a227e3-cb97-40fe-b7b6-45a60ed065cf@node.remnagecsp.ru:7443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=node.remnagecsp.ru&fp=firefox&pbk=0BVxZKOt6wO0jIB1xRkAAtaFUkmyFAbVWfkkKSJBfEI&sid=570ffeb12f6e4635&type=tcp&headerType=none#🇨🇭Резервный
