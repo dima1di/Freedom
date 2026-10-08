@@ -1,1 +1,1 @@
-vless://tyxyrytyro@tyxyrytyro-51255165170-direct.araghchy.com:443?sni=tyxyrytyro-51255165170-direct.araghchy.com&alpn=h2&flow=xtls-rprx-vision&fp=chrome&security=tls#🇨🇭Резервный
+vless://5413edfb-08d6-4fba-b51c-809c04feb127@31.59.210.37:443?type=grpc&headerType=none&security=reality&encryption=none&sni=www.yandex.ru&pbk=5k0dtOSzmshCubdYeKppsUdHU4i2ghaB9uSJSzGjHW4&sid=6dbf4931096f9890&serviceName=astracat&fp=safari#🇨🇭Резервный
