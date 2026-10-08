@@ -1,1 +1,1 @@
-vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@saas.sin.fan:443?encryption=none&security=tls&type=ws&host=snip.edgeoneai.cc.cd&path=%2F&sni=snip.edgeoneai.cc.cd&alpn=h3%2Ch2&fp=chrome#🇨🇭Резервный
+vless://d2519b5e-495e-462e-9703-bbf68011d2f3@50.7.122.243:443?type=grpc&security=tls&fp=firefox&sni=djsfhsidkjn.fdc.video-mvm.ru#🇨🇭Резервный
