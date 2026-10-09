@@ -1,1 +1,1 @@
-vless://a6be94fc-e742-4714-8a38-c8d7410ae066@185.155.55.3:8443?security=reality&encryption=none&pbk=ApMfbcEyBOve6DxXoBNVu3bCCzQ7XCEYB4ummsDtTBE&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ee-nf.reddotcorp.org&sid=661766b2bcef440a#🇨🇭Резервный
+vless://a889fba5-5472-4022-a6b4-9710157fda2f@stoniy.fytpn.com:56789?encryption=none&type=tcp&security=reality&sni=stoniy.fytpn.com&fp=firefox&pbk=PDHRi_RRFsPhxLoH2C1l9A9HdL2y7g1uOzXmY0XnmzQ&sid=a2aa&flow=xtls-rprx-vision#🇨🇭Резервный
