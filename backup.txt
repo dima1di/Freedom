@@ -1,1 +1,1 @@
-vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@saas.sin.fan:443?encryption=none&security=tls&type=ws&host=snip.edgeoneai.cc.cd&path=%2F&sni=snip.edgeoneai.cc.cd&alpn=h3%2Ch2#🇨🇭Резервный
+vless://c20751de-06c3-4044-b6a4-eebc9b040d92@swebz.loozerp.wiki:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=swebz.loozerp.wiki&fp=qq&security=reality&pbk=pgG2grngQEtOFJImLfz0AEm-O2IodM2jCY4aMCYQI1U&sid=6aa2d2e950441a9a#🇨🇭Резервный
