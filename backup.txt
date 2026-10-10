@@ -1,1 +1,1 @@
-vless://5a96c1fc-f167-44b9-9020-8f6867537d14@netherlands01.azotvpn.xyz:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=netherlands01.azotvpn.xyz&fp=random&pbk=mVHfqglm6n5NqynpakJT_CfD3rBQfx_UBabYCtJaJi0&sid=da15595a494f902c&spx=%2F&type=tcp#🇨🇭Резервный
+vless://616c7b3b-41f4-4038-88c6-d6fedd0ae4a7@fn-2.ardesnode.ru:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=fn-2.ardesnode.ru&fp=random&pbk=PKlt_5ASsz137EvA9SKSadtjEv1k_U7VRtoelKCgADs&sid=9ea74b83f4993ca9&type=tcp&headerType=none#🇨🇭Резервный
