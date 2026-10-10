@@ -1,1 +1,1 @@
-vless://267b3a79-81f2-42ac-a409-c23b05b6329d@94.141.162.88:8447?type=grpc&security=reality&fp=firefox&pbk=spxYV3CT-gcnk7ABCozoIyrxKu8n-sl36RL6yDh-8xg&sid=feb22e978bd90e60&sni=srv88.bbobr.win&serviceName=api.v2.9d87796f29#🇨🇭Резервный
+vless://c20751de-06c3-4044-b6a4-eebc9b040d92@swebz.loozerp.wiki:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=swebz.loozerp.wiki&fp=qq&security=reality&pbk=pgG2grngQEtOFJImLfz0AEm-O2IodM2jCY4aMCYQI1U&sid=6aa2d2e950441a9a#🇨🇭Резервный
