@@ -1,1 +1,1 @@
-vless://8ff8938c-49b6-b22f-a934-b55e91154ca3@104.245.243.2:443?path=%2F&security=reality&pbk=R8Mogel1wypEIpcUXnGmG1cuzT9POghNhqJcw4-CLx0&fp=chrome&type=xhttp&sni=cdn.steamstatic.com#🇨🇭Резервный
+vless://d1004cfe-c279-e865-d865-71964dbdf85d@mioline.save-files.online:443?encryption=none&security=tls&sni=mioline.save-files.online&type=ws&path=%2Fapi%2Fv1%2Fclip%2Fsegment%2F8c7eea6f&host=mioline.save-files.online&fp=ios#🇨🇭Резервный
