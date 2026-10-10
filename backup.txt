@@ -1,1 +1,1 @@
-vless://616c7b3b-41f4-4038-88c6-d6fedd0ae4a7@138.124.15.231:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=fn-2.ardesnode.ru&fp=random&pbk=PKlt_5ASsz137EvA9SKSadtjEv1k_U7VRtoelKCgADs&sid=9ea74b83f4993ca9&type=tcp&headerType=none#🇨🇭Резервный
+vless://e2599b64-2eaa-4b81-b2bc-738605ecfeec@spb.ai-boost.tech:443?encryption=none&security=tls&sni=spb.ai-boost.tech&fp=random&type=ws&path=%2FbKGK1ZI0PzpQz3OeEeq1&host=spb.ai-boost.tech#🇨🇭Резервный
