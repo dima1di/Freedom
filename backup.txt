@@ -1,1 +1,1 @@
-vless://79459f96-504a-4e1c-864e-73c16d12f449@mskk2.artemida.digital:12087?encryption=none&flow=xtls-rprx-vision&security=reality&sni=mskk2.artemida.digital&fp=firefox&pbk=xSMOwolkPn3goQGzh7K3BorZ8kvlHxxp9EyEAE3BB1s&sid=5e6ccddff2258650&type=tcp&headerType=none#🇨🇭Резервный
+vless://616c7b3b-41f4-4038-88c6-d6fedd0ae4a7@138.124.15.231:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=fn-2.ardesnode.ru&fp=random&pbk=PKlt_5ASsz137EvA9SKSadtjEv1k_U7VRtoelKCgADs&sid=9ea74b83f4993ca9&type=tcp&headerType=none#🇨🇭Резервный
