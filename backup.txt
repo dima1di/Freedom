@@ -1,1 +1,1 @@
-vless://e2599b64-2eaa-4b81-b2bc-738605ecfeec@spb.ai-boost.tech:443?encryption=none&security=tls&sni=spb.ai-boost.tech&fp=random&type=ws&path=%2FbKGK1ZI0PzpQz3OeEeq1&host=spb.ai-boost.tech#🇨🇭Резервный
+vless://5a96c1fc-f167-44b9-9020-8f6867537d14@netherlands01.azotvpn.xyz:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=netherlands01.azotvpn.xyz&fp=random&pbk=mVHfqglm6n5NqynpakJT_CfD3rBQfx_UBabYCtJaJi0&sid=da15595a494f902c&spx=%2F&type=tcp#🇨🇭Резервный
