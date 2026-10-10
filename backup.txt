@@ -1,1 +1,1 @@
-vless://d1004cfe-c279-e865-d865-71964dbdf85d@seo.video-save.online:443?encryption=none&security=tls&sni=seo.video-save.online&type=ws&path=%2Fapi%2Fv3%2Fstream%2Fmanifest%2F54dea6bc&host=seo.video-save.online&fp=firefox#🇨🇭Резервный
+vless://d1004cfe-c279-e865-d865-71964dbdf85d@194.26.229.35:443?encryption=none&host=mioline.save-files.online&path=%2Fapi%2Fv1%2Fclip%2Fsegment%2F8c7eea6f&security=tls&sni=mioline.save-files.online&type=ws&fp=android#🇨🇭Резервный
