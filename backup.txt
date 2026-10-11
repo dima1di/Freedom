@@ -1,3 +1,3 @@
-vless://7b859f9e-0e6a-475f-b5e3-5d671b043164@46.8.208.17:7443?encryption=none&flow=xtls-rprx-vision&fp=qq&security=tls&sni=hellox-3.locallynet.org&type=raw#🇨🇭Резервный
-vless://7b859f9e-0e6a-475f-b5e3-5d671b043164@46.8.208.17:7443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=hellox-3.locallynet.org&type=raw#🇨🇭Резервный
-vless://03218c7c-acd1-45c0-87a1-9cc77101c6b4@82.202.178.133:31443?encryption=none&flow=xtls-rprx-vision&fp=random&pbk=lA0NS88gVVkaZf4qA1aYystzmLsZ5SNzszDsC-8DMSM&security=reality&sid=e351ebf520&sni=smartcaptcha.yandexcloud.net&type=raw#🇨🇭Резервный
+vless://a5893c8b-28a2-4947-9a1c-708db25506c3@95.129.236.54:443?encryption=none&fp=firefox&path=%2Fgateway%2Fv1%2Fws%2F7b101e2ddcdc731ab25531e04f964444&security=tls&sni=client.lk.nehtar.online&type=ws#🇨🇭Резервный
+vless://d7255425-34b4-4ccc-8a88-427082401e94@188.225.57.252:8037?encryption=none&flow=xtls-rprx-vision&fp=edge&pbk=i_zbh_lP5Pnxuie4IIB5FiWrde9yYQXH1Gd0Qm-8AAg&security=reality&sid=9e5a335de26d1f5a&sni=pic.rutubelist.ru&type=raw#🇨🇭Резервный
+vless://a393ce62-9c9d-4df5-ab15-9e2d63be4c3f@87.242.95.164:9443?encryption=none&fp=qq&mode=gun&pbk=9YcV-gA7iaXFnI0HXQa624OIqm4zxO_U2eMCWXQAiCQ&security=reality&serviceName=grpc&sid=8375b32501373f41&sni=passport.yandex.ru&spx=%2F&type=grpc#🇨🇭Резервный
