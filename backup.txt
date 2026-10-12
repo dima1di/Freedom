@@ -1,1 +1,1 @@
-vless://c5b5ef33-819e-4972-9a5a-4ad91f38507f@185.229.9.234:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=fsyvGBPzzwpnSA0UnJML_cDqviNSEdj9zktpC1EeFhY&security=reality&sid=743541f932fa3959&sni=yandex.ru&type=raw#🇨🇭Резервный
+vless://6c650974-e4fd-4bf6-a445-3c62f7699304@31.177.111.140:443?alpn=http%2F1.1&encryption=none&fp=firefox&path=%2Fclient%2Fcollect%2F6b3a32fb9f37%2F&security=tls&sni=cdn.rucdncomp.pro&type=ws#🇨🇭Резервный
