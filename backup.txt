@@ -1,1 +1,1 @@
-vless://b1dc1317-4e73-4642-a4b0-be8e99eb81fd@87.242.95.164:9443?encryption=none&fp=qq&mode=gun&pbk=9YcV-gA7iaXFnI0HXQa624OIqm4zxO_U2eMCWXQAiCQ&security=reality&serviceName=grpc&sid=8375b32501373f41&sni=passport.yandex.ru&spx=%2F&type=grpc#🇨🇭Резервный
+vless://4136705c-c83c-4548-948b-687e35f1fe85@87.242.95.164:9443?encryption=none&fp=qq&mode=gun&pbk=9YcV-gA7iaXFnI0HXQa624OIqm4zxO_U2eMCWXQAiCQ&security=reality&serviceName=grpc&sid=8375b32501373f41&sni=passport.yandex.ru&spx=%2F&type=grpc#🇨🇭Резервный
