@@ -1,3 +1,3 @@
 vless://95a608b6-bff1-4e10-bb61-0a39f221bb7d@78.159.246.179:2053?alpn=h2%2Chttp%2F1.1&encryption=none&fp=ios&host=randomquaint.net&mode=auto&path=%2Fapi%2Fv1%2Fupload&security=tls&sni=randomquaint.net&type=xhttp#🇨🇭LTE
-vless://2c634977-584e-4e1f-b501-1b70c77a6743@78.159.246.85:8443?encryption=none&fp=firefox&host=fitindoor.net&mode=packet-up&path=%2Fapi%2Fv1%2Fupload&security=tls&sni=fitindoor.net&type=xhttp#🇨🇭LTE
+vless://95a608b6-bff1-4e10-bb61-0a39f221bb7d@78.159.246.85:2053?encryption=none&fp=ios&host=fitindoor.net&mode=auto&path=%2Fapi%2Fv1%2Fupload&security=tls&sni=fitindoor.net&type=xhttp#🇨🇭LTE
 vless://2c634977-584e-4e1f-b501-1b70c77a6743@81.94.148.232:8443?encryption=none&fp=chrome&host=windytrout.net&mode=auto&path=%2Fapi%2Fv1%2Fupload&security=tls&sni=windytrout.net&type=xhttp#🇨🇭LTE
