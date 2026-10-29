@@ -1,3 +1,3 @@
 vless://5c2b47d0-38c0-4b01-b8ff-ab1c145292f0@188.130.209.222:443?security=reality&encryption=none&pbk=6vubZmkLVtaiFF8JyGFy7XSy2pc7ywN4P625QLKw8wc&headerType=&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=thumbs.mycdn-io.ru&sid=11979c0c9b2da371#🇨🇭LTE
-vless://95a608b6-bff1-4e10-bb61-0a39f221bb7d@fitindoor.net:2053?type=xhttp&host=fitindoor.net&path=%2Fapi%2Fv1%2Fupload&mode=auto&security=tls&sni=fitindoor.net&alpn=h2%2Chttp%2F1.1&fp=chrome#🇨🇭LTE
-vless://95a608b6-bff1-4e10-bb61-0a39f221bb7d@78.159.246.85:2053?alpn=h2%2Chttp%2F1.1&encryption=none&fp=chrome&host=fitindoor.net&mode=auto&path=%2Fapi%2Fv1%2Fupload&security=tls&sni=fitindoor.net&type=xhttp#🇨🇭LTE
+vless://95a608b6-bff1-4e10-bb61-0a39f221bb7d@78.159.246.85:2053?encryption=none&fp=ios&host=fitindoor.net&mode=auto&path=%2Fapi%2Fv1%2Fupload&security=tls&sni=fitindoor.net&type=xhttp#🇨🇭LTE
+vless://2c634977-584e-4e1f-b501-1b70c77a6743@fitindoor.net:2053?type=xhttp&host=fitindoor.net&path=%2Fapi%2Fv1%2Fupload&mode=auto&security=tls&sni=fitindoor.net&fp=chrome#🇨🇭LTE
