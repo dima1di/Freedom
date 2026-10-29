@@ -1,3 +1,3 @@
-vless://50a87e21-f0e2-4b53-a787-91adfe748f63@201.58.177.219:443?flow=xtls-rprx-vision&fp=firefox&pbk=TyuIIquHoesD9YwMQJHda0YZ3Hy9Dh123dQ00iGK0QY&security=reality&sni=swedenafteraventura.space&type=raw#🇨🇭LTE
 vless://abca037b-bee5-41cc-a888-0668e4c66176@6d160a52.con.fernarchive.online:443?type=xhttp&security=tls&fp=firefox&sni=6d160a52.con.fernarchive.online&path=%2Fconv4%2Fstream%2F77dd2aeeb94331fbff325bb48850392b&mode=auto#🇨🇭LTE
 vless://76ef5ab3-7075-4e23-b445-f3b1bd05d431@193.233.252.100:443?type=grpc&security=tls&fp=chrome&sni=swe.qik-fin.uk&serviceName=assets#🇨🇭LTE
+vless://e221699d-e705-4664-9162-a75a82aa3997@sg2-xr.zgrelay.com:443?encryption=none&type=ws&security=tls&sni=sg2-xr.zgrelay.com&path=%2F700gvl-kr3#🇨🇭LTE
