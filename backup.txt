@@ -1,3 +1,3 @@
+vless://04b7c62b-762e-4a8c-ba37-8328d25c8d74@185.86.145.37:443?encryption=none&fp=qq&host=ararat.rtkdvbr.cc&path=%2Famws&security=tls&sni=ararat.rtkdvbr.cc&type=ws#🇨🇭LTE
 vless://5c2b47d0-38c0-4b01-b8ff-ab1c145292f0@188.130.209.222:443?security=reality&encryption=none&pbk=6vubZmkLVtaiFF8JyGFy7XSy2pc7ywN4P625QLKw8wc&headerType=&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=thumbs.mycdn-io.ru&sid=11979c0c9b2da371#🇨🇭LTE
 vless://7a4bf57c-ebbe-4779-a469-9d803e6c29fd@157.22.241.193:444?security=reality&encryption=none&pbk=e6RrKgiMRFZEKHn7bcpQHV_skmM-45eX6-G92U0tykY&headerType=&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=spb1.nexfile.net&sid=edc4c30c#🇨🇭LTE
-vless://abca037b-bee5-41cc-a888-0668e4c66176@144.31.213.229:443?path=%2Fconv4%2Fstream%2F77dd2aeeb94331fbff325bb48850392b&security=tls&encryption=none&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=6d160a52.con.fernarchive.online#🇨🇭LTE
