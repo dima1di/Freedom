@@ -1,3 +1,3 @@
 vless://5c2b47d0-38c0-4b01-b8ff-ab1c145292f0@188.130.209.222:443?security=reality&encryption=none&pbk=6vubZmkLVtaiFF8JyGFy7XSy2pc7ywN4P625QLKw8wc&headerType=&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=thumbs.mycdn-io.ru&sid=11979c0c9b2da371#🇨🇭LTE
+vless://6db6b948-655f-4f68-a9e7-865050e05b31@93.152.206.112:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=-zjl4KNE4PFeuthfmw_2JeCbiXAA2kaoYVHODPq-sXQ&security=reality&sid=a2fc&sni=remote.propaint.cl&type=tcp#🇨🇭LTE
 vless://abca037b-bee5-41cc-a888-0668e4c66176@6d160a52.con.fernarchive.online:443?type=xhttp&security=tls&fp=firefox&sni=6d160a52.con.fernarchive.online&path=%2Fconv4%2Fstream%2F77dd2aeeb94331fbff325bb48850392b&mode=auto#🇨🇭LTE
-vless://f8d52ece-fad4-478d-875d-df6eed3befa7@nl-s-2.pythonmakemigreat.wiki:61374?encryption=none&security=reality&sni=nl-s-2.pythonmakemigreat.wiki&fp=chrome&pbk=QrNs0ew7snHqLfpVXS9RAhlRzgAzzGZK9fXmDcx9xHI&type=xhttp&host=nl-s-1.pythonmakemigreat.wiki&path=%2F&mode=packet-up#🇨🇭LTE
