@@ -1,3 +1,3 @@
-vless://4f172121-e7fc-464c-9f37-ffd5cf664a8e@185.86.145.60:443?encryption=none&fp=firefox&path=%2Fg189ws&security=tls&sni=online.convert-drozd.ru&type=ws#🇨🇭LTE
+vless://d4713d5f-e1e3-413e-b65d-cbdf7b7e4a4e@185.86.145.60:443?encryption=none&fp=firefox&path=%2Fg189ws&security=tls&sni=online.convert-drozd.ru&type=ws#🇨🇭LTE
 vless://7ad63b26-bf70-4872-8fab-ebaf73a1e19d@5.129.202.74:443?flow=xtls-rprx-vision&pbk=LEziyH-E4k9hehGRJkVi1FadVObB_NZJy8U7oUCVWXU&security=reality&sid=b9120cd53ffd7bba&sni=patch-25.topp-con.xyz&fp=ios#🇨🇭LTE
 vless://3eb47299-50cd-46ee-9511-49115c56ed37@82.202.183.9:443?encryption=none&fp=firefox&mode=gun&pbk=1A9loATtqTbKfErpj24clMebWdbmBRDgUIADwtlvtAw&security=reality&serviceName=google.storage.v2.Storage&sid=70c20a2f5a7d542e&sni=h4.smart-life.agency&type=grpc#🇨🇭LTE
