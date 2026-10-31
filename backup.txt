@@ -1,3 +1,3 @@
-vless://960e3a95-3ca6-4553-bf35-331258c1c9e4@185.86.145.60:443?encryption=none&fp=firefox&path=%2Fg189ws&security=tls&sni=online.convert-drozd.ru&type=ws#🇨🇭LTE
-vless://7ad63b26-bf70-4872-8fab-ebaf73a1e19d@5.129.202.74:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=LEziyH-E4k9hehGRJkVi1FadVObB_NZJy8U7oUCVWXU&security=reality&sid=b9120cd53ffd7bba&sni=patch-25.topp-con.xyz&type=tcp#🇨🇭LTE
+vless://4f172121-e7fc-464c-9f37-ffd5cf664a8e@185.86.145.60:443?encryption=none&fp=firefox&path=%2Fg189ws&security=tls&sni=online.convert-drozd.ru&type=ws#🇨🇭LTE
 vless://e37ebf3b-ac32-48a8-8f56-d113967eaf29@185.86.145.37:443?alpn=http%2F1.1&encryption=none&fp=qq&host=ara.rtkdvbr.cc&path=%2Famws&security=tls&sni=ara.rtkdvbr.cc&type=ws#🇨🇭LTE
+vless://7ad63b26-bf70-4872-8fab-ebaf73a1e19d@5.129.202.74:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=LEziyH-E4k9hehGRJkVi1FadVObB_NZJy8U7oUCVWXU&security=reality&sid=b9120cd53ffd7bba&sni=patch-25.topp-con.xyz&type=tcp#🇨🇭LTE
