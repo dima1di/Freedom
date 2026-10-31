@@ -1,3 +1,3 @@
 vless://379998c5-2a71-4202-9c74-522e0c3c5404@185.147.27.183:8443?security=tls&type=tcp&sni=user-6a917f32.noooo.win&host=user-6a917f32.noooo.win&flow=xtls-rprx-vision&fp=chrome#🇨🇭LTE
 vless://6da2c981-8c77-4340-bda3-93399b7aea26@132.243.230.251:443?encryption=none&fp=firefox&path=%2Fentry-xh&pbk=Uz1UbBDf84n7oNfFIhFvXbuFcj1nbNEroiKC_Ud4ajg&security=reality&sid=b2f9bb426426e0e7&sni=www.kinopoisk.ru&type=xhttp#🇨🇭LTE
-vless://d5b3e363-4143-435f-80d3-a51568283a22@193.233.88.34:8443?flow=xtls-rprx-vision&security=reality&sni=de7-site.kartamira.cc&fp=firefox&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2#🇨🇭LTE
+vless://a52fd54b-ba4d-4d11-8e00-301e2646cd66@fin2.vpngold.ru:8443?security=reality&encryption=none&pbk=1H1DiBCBB7fpALV71pH1q66ePybBFlVOcxftdlQimQ8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fin2.vpngold.ru&sid=385cb18df0892069#🇨🇭LTE
