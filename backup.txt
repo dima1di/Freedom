@@ -1,3 +1,3 @@
+vless://a5212bcb-ab85-459a-bec6-9f259eeeebfa@46.254.19.164:443?encryption=none&fp=random&pbk=3qgZ9UlB-y1i9jx_zQQBgiNgFHz6fPQdP9gMMl4zXiM&security=reality&sid=8937c9ed2d470352&sni=wtb.tems.bet&type=raw#🇨🇭LTE
 vless://1f803531-9ee0-49b0-8354-70680c39099c@46.243.233.157:1505?encryption=none&fp=qq&mode=gun&pbk=5nRL3eh_pQWHdej0It-V9mOapVLSi4PgkgjG9iqhpSw&security=reality&serviceName=grpc&sid=a5bd715862513387&sni=iv.kommersant.ru&spx=%2F&type=grpc#🇨🇭LTE
 vless://e37ebf3b-ac32-48a8-8f56-d113967eaf29@185.86.145.37:443?encryption=none&fp=qq&host=ara.rtkdvbr.cc&path=%2Famws&security=tls&sni=ara.rtkdvbr.cc&type=ws#🇨🇭LTE
-vless://4f4e8129-56ae-4b6e-baeb-ebdd07d8b2c5@95.163.215.8:5003?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=SHIYN7zN9aFVxwKK-bIvDbhUgtHvlBhDi1qSl2sWwRw&security=reality&sid=e7&sni=eh.vk.com&type=raw#🇨🇭LTE
