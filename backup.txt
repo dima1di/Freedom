@@ -1,3 +1,3 @@
-vless://2232d904-8e6a-4202-8240-6efd8aec02e9@185.178.208.167:443?alpn=http%2F1.1&encryption=none&fp=chrome&host=lorettmay.top&path=%2Fblog%2Fposts&security=tls&sni=lorettmay.top&type=ws#🇨🇭LTE
-vless://eddadc10-6100-4db9-bcbd-bcff5763bc54@185.86.145.60:443?encryption=none&fp=firefox&path=%2Fg189ws&security=tls&sni=online.convert-drozd.ru&type=ws#🇨🇭LTE
-vless://b877b58f-5995-4b25-abec-3213a2f95512@185.86.145.142:2096?encryption=none&host=cdn.freetato-converting.ru&path=%2Fchxh&security=tls&sni=cdn.freetato-converting.ru&type=xhttp#🇨🇭LTE
+vless://2232d904-8e6a-4202-8240-6efd8aec02e9@185.178.208.167:443?alpn=http%2F1.1&encryption=none&fp=ios&host=lorettmay.top&path=%2Fblog%2Fposts&security=tls&sni=lorettmay.top&type=ws#🇨🇭LTE
+vless://2232d904-8e6a-4202-8240-6efd8aec02e9@lorettmay.top:443?type=ws&security=tls&path=%2Fblog%2Fposts&host=lorettmay.top&sni=lorettmay.top&fp=firefox&alpn=http%2F1.1&encryption=none#🇨🇭LTE
+vless://0d070b9c-64a2-49dd-8c26-d9cbb6cc225c@work11.kadamilab.ru:2444?security=reality&encryption=none&pbk=LJsl2DgOqknCTlIUAJ9RIp5-2L5chl_sOycmWzmeWgY&headerType=&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=hb.ru-msk.vkcloud-storage.ru#🇨🇭LTE
