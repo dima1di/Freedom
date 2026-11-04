@@ -1,3 +1,3 @@
-vless://4d8132cb-f4e3-428c-91ff-2b4f7a868551@84.23.52.120:28448?alpn=h2%2Chttp%2F1.1&path=%2Flovelive&security=tls&sni=pl.sparxiecn.com&type=ws&fp=chrome#🇨🇭LTE
-vless://2f6c70f3-206a-4bc1-ac1f-6b70153f9c73@217.16.26.28:2880?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=CQBmePak1QN5SsSmK_KTOSLjsCTaiaM4Jtxt7jLheko&security=reality&sid=b0d8c9a285c70f6f&sni=unpkg.com&type=tcp#🇨🇭LTE
+vless://4d8132cb-f4e3-428c-91ff-2b4f7a868551@84.23.52.120:28448?security=tls&sni=pl.sparxiecn.com&alpn=h2%2Chttp%2F1.1&fp=firefox&type=ws&path=%2Flovelive#🇨🇭LTE
 vless://3bb97d46-789b-4229-88f6-9beb222a4137@147.45.148.6:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=yoy-api.bachidze.com&fp=chrome&security=reality&pbk=ZJlfiMh4ebjrTl2_kwAk_zXMAaCiwNS7yMd5XzlUgmI&sid=#🇨🇭LTE
+vless://3bb97d46-789b-4229-88f6-9beb222a4137@smart.bachidze.com:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=vzRgIP8Mvd9V6krwKxw5EwwzvC4uiaW3wo0Y2ri2_Wc&sni=smart.bachidze.com#🇨🇭LTE
