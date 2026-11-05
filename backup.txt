@@ -1,3 +1,3 @@
 vless://4d8132cb-f4e3-428c-91ff-2b4f7a868551@84.23.52.120:28448?security=tls&sni=pl.sparxiecn.com&alpn=h2%2Chttp%2F1.1&fp=firefox&type=ws&path=%2Flovelive#🇨🇭LTE
-vless://3bb97d46-789b-4229-88f6-9beb222a4137@88.216.223.100:443?security=reality&encryption=none&pbk=vzRgIP8Mvd9V6krwKxw5EwwzvC4uiaW3wo0Y2ri2_Wc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=smart.bachidze.com#🇨🇭LTE
-vless://95d0e214-eab0-4701-93ed-fea4f1b56062@88.216.70.128:443?type=raw&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=TRaUsnzFf-AhWUuW4RQUQOBYTdM-qJdLDTTkzQNkcRw&sid=f70764f8&sni=tickets.betust.net#🇨🇭LTE
+vless://769f34f0-1500-488f-b414-03bc90666502@cdn372.whitenw.net:12443?type=raw&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=HyJQdnrodVK1USi-VyOC_pIvy1Ploj4Kf7kpO0vopSo&sid=78c8c6801d59cc19&sni=catalog.mimowhat.online#🇨🇭LTE
+vless://3bb97d46-789b-4229-88f6-9beb222a4137@85.193.85.231:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=ZJlfiMh4ebjrTl2_kwAk_zXMAaCiwNS7yMd5XzlUgmI&security=reality&sni=yoy-api.bachidze.com&type=tcp#🇨🇭LTE
