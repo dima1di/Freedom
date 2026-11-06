@@ -1,3 +1,3 @@
+vless://3bb97d46-789b-4229-88f6-9beb222a4137@yoy-api.bachidze.com:443?encryption=none&flow=xtls-rprx-vision&headerType=none&pbk=ZJlfiMh4ebjrTl2_kwAk_zXMAaCiwNS7yMd5XzlUgmI&security=reality&sni=yoy-api.bachidze.com&type=tcp&fp=chrome#🇨🇭LTE
 vless://709c2629-68cb-4d3b-a340-d65cd93d1136@arch.ashleytears.cfd:443?mode=packet-up&path=%2Fiso%2F2026.10.01%2Farchlinux-2026.10.01-x86_64.iso&security=tls&alpn=h2&encryption=none&insecure=0&fp=firefox&type=xhttp&allowInsecure=0&sni=arch.ashleytears.cfd#🇨🇭LTE
 vless://34eb9178-181f-48fa-a1d6-3bceab74d8cd@d1.fi.olinvpn.com:443?encryption=none&type=xhttp&security=tls&sni=d1.fi.olinvpn.com&fp=firefox&alpn=h2%2Chttp%2F1.1&path=%2Fapi%2FgetFile%2F&host=d1.fi.olinvpn.com&mode=packet-up#🇨🇭LTE
-vless://3bb97d46-789b-4229-88f6-9beb222a4137@yoy-api.bachidze.com:443?encryption=none&flow=xtls-rprx-vision&pbk=ZJlfiMh4ebjrTl2_kwAk_zXMAaCiwNS7yMd5XzlUgmI&security=reality&sni=yoy-api.bachidze.com&type=tcp&fp=ios#🇨🇭LTE
