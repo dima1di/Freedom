@@ -1,3 +1,3 @@
 vless://255a8044-3337-473e-af26-46a37208adcc@piston.kachow.ink:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=wl48cP9KpZxoAqUAePYqVmjNHO2gOzW_QCm3okkiLks&sid=87ac946b53bb52f5&sni=piston.kachow.ink#🇨🇭LTE
+vless://13718497-ab31-4144-b2dc-3d9315366376@46.243.233.170:2053?alpn=h2%2Chttp%2F1.1&encryption=none&fp=firefox&host=ironlever.net&mode=auto&path=%2Fapi%2Fv1%2Fupload&security=tls&sni=ironlever.net&type=xhttp#🇨🇭LTE
 vless://255a8044-3337-473e-af26-46a37208adcc@194.55.239.86:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=wl48cP9KpZxoAqUAePYqVmjNHO2gOzW_QCm3okkiLks&security=reality&sid=87ac946b53bb52f5&sni=piston.kachow.ink&type=raw#🇨🇭LTE
-vless://95d0e214-eab0-4701-93ed-fea4f1b56062@admin.betust.net:443?security=reality&encryption=none&pbk=zZjrHRzULoXKVccVdPqtrtXLEUPJXwqdE1138vu5x3w&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=admin.betust.net&sid=3e137406#🇨🇭LTE
