@@ -1,3 +1,3 @@
 vless://709c2629-68cb-4d3b-a340-d65cd93d1136@arch.ashleytears.cfd:443?mode=packet-up&path=%2Fiso%2F2026.10.01%2Farchlinux-2026.10.01-x86_64.iso&security=tls&alpn=h2&encryption=none&insecure=0&fp=firefox&type=xhttp&allowInsecure=0&sni=arch.ashleytears.cfd#🇨🇭LTE
+vless://c47159bb-2c15-440d-b239-8594d7e7efbb@95.143.188.113:443?alpn=h2&encryption=none&fp=safari&mode=multi&security=tls&serviceName=sync.v1&sni=tz5gtjwlki.j.cloudfront.hls.hlsnode.net&type=grpc#🇨🇭LTE
 vless://981c7ccc-2b17-473c-8358-7fd1d6eec1b4@194.87.118.232:993?encryption=none&fp=firefox&host=us2-ws.gacvpn.site&path=%2Fstatic%2Fjs%2Fvendor.2e12e7f4.js&security=tls&sni=us2-ws.gacvpn.site&type=ws#🇨🇭LTE
-vless://c47159bb-2c15-440d-b239-8594d7e7efbb@95.143.188.113:443?encryption=none&fp=safari&mode=multi&security=tls&serviceName=sync.v1&sni=tz5gtjwlki.j.cloudfront.hls.hlsnode.net&type=grpc#🇨🇭LTE
