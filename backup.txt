@@ -1,4 +1,4 @@
 vless://0894db40-59c1-41b7-baa5-173c16f5c70d@fd54sfsdfsd.whitenw.net:9443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=passport.yandex.ru&pbk=vZ22ThhkpXUd5-tY-v5TTrouLHjgYYmeQgqeLt7HRz0&fp=firefox#🇨🇭LTE
-vless://0894db40-59c1-41b7-baa5-173c16f5c70d@cdn321.whitenw.net:10443?encryption=none&type=tcp&security=reality&sni=passport.yandex.ru&pbk=kFbLiztysJGEnqzWRH1JLbPzDUZyaI1eglpD4ORSOyA&sid=309975573a744b32&fp=firefox#🇨🇭LTE
 vless://0894db40-59c1-41b7-baa5-173c16f5c70d@2dsafsd.whitenw.net:9444?encryption=none&type=tcp&security=reality&sni=passport.yandex.ru&pbk=kFbLiztysJGEnqzWRH1JLbPzDUZyaI1eglpD4ORSOyA&sid=309975573a744b32&fp=firefox#🇨🇭LTE
+vless://0894db40-59c1-41b7-baa5-173c16f5c70d@185.86.145.174:9444?encryption=none&type=tcp&security=reality&sni=passport.yandex.ru&pbk=kFbLiztysJGEnqzWRH1JLbPzDUZyaI1eglpD4ORSOyA&sid=309975573a744b32&fp=firefox#🇨🇭LTE
 vless://b40ce5f4-b833-4e5c-8c37-901538a02fcc@sub-edge-12-1g.xrent.cloud:11451?encryption=none&type=xhttp&security=reality&path=/&mode=auto&sni=ligastavok.ru&fp=chrome&pbk=kDEc42JBZxig3BrLD3V1ofs3oJZk15-ANWN-rM0JW10&sid=f28145401b4f633a&spx=/#🇨🇭LTE%20%28%D1%80%D0%B5%D0%B7%D0%B5%D1%80%D0%B2%29
