@@ -1,4 +1,4 @@
 vless://95f85937-7b95-45c4-8d69-95da6a978569@chat.gpt.prem-ai.shop:443?encryption=none&type=ws&security=tls&sni=chat.gpt.prem-ai.shop&fp=chrome&alpn=http/1.1&path=/gateway/v1/ws/791f9a4d19f715c2ffaedfbaf99d88bd#🇨🇭LTE
 vless://d8912c33-6d76-4b86-b94e-f3c262a7ce0c@185.86.145.174:10452?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=L1Ug_ELbeZ_5q9QRzO5Lg_ZMkus9n72aiUfvFirN9Vo&security=reality&sid=c8a79c7b64adca2a&sni=passport.yandex.ru&spx=%2F&type=raw#🇨🇭LTE
-vless://75d1a1e9-cc7c-0014-92c7-1357c6a37875@194.55.239.47:443?encryption=none&flow=xtls-rprx-vision&fp=edge&pbk=1WWCm1gHVrghowSVLWlBq_ofcJThgEYUclB1oR22bBg&security=reality&sid=a870ef67d6260fa7&sni=empanel.injlab.org&type=raw#🇨🇭LTE
+vless://432c06e2-6aa2-4e42-b890-9c015adcca9e@185.86.145.40:5443?flow=&type=ws&host=r-fi-1.dokomon.com&path=/ws/&security=tls&sni=k2.r-fi-1.dokomon.com&fp=qq#LTE
 vless://1cf579c9-affe-4943-8292-38372de4ef5e@sub-edge-12-1g.xrent.cloud:11451?encryption=none&type=xhttp&security=reality&path=/&mode=auto&sni=ligastavok.ru&fp=chrome&pbk=kDEc42JBZxig3BrLD3V1ofs3oJZk15-ANWN-rM0JW10&sid=f28145401b4f633a&spx=/#🇨🇭LTE%20%28%D1%80%D0%B5%D0%B7%D0%B5%D1%80%D0%B2%29
