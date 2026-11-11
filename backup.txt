@@ -1,4 +1,4 @@
-vless://33f3c1ee-f026-4f3f-bed3-8c7c01de8a96@user.betust.net:443?type=tcp&security=reality&sni=user.betust.net&pbk=TXP6hQVE4PdXDEdDk2k_5_f92jcOKZ15Fuw14jCJTQg&sid=c1064ddb&fp=firefox&spx=/&encryption=none&flow=xtls-rprx-vision#🇨🇭LTE
 vless://67cd3349-f789-4cbb-8b91-4b6b1654ce7c@151.101.36.61:443?type=xhttp&security=tls&fp=chrome&sni=accounts.fastly.com&host=ovd10.global.ssl.fastly.net&mode=auto#🇨🇭LTE
-vless://1653818d-532e-46be-b825-384107fb7c3a@hub.mediacorphub.org:443?type=grpc&security=tls&fp=firefox&sni=hub.mediacorphub.org&serviceName=hub.v1.ObjectService#🇨🇭LTE
+vless://33f3c1ee-f026-4f3f-bed3-8c7c01de8a96@user.betust.net:443?type=tcp&security=reality&sni=user.betust.net&pbk=TXP6hQVE4PdXDEdDk2k_5_f92jcOKZ15Fuw14jCJTQg&sid=c1064ddb&fp=firefox&spx=/&encryption=none&flow=xtls-rprx-vision#🇨🇭LTE
+vless://549766c3-fa5f-471e-8031-ffc1f8d5064f@217.60.27.93:443?encryption=none&fp=firefox&path=/v2/notes/85cf046cfe9c&pbk=2VsrxDroL0paeyBtGkQ5zfhMOXqwti5kDZPkvh1xJgs&security=reality&sid=8424ce89ccd55f65&sni=tgde.blog-forme.ru&type=xhttp#🇨🇭LTE
 vless://ff7e1c65-cc59-4a1a-9178-89a2e90a568c@br-rub.i-_-i.llill.tech:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=max.ru&fp=firefox&pbk=Mn0DIMKW6zu0_D3E1qKO7xMlIVZvB-rqO_-f7Le2vAs&sid=428ef87fd47a3a32#🇨🇭LTE%20%28%D1%80%D0%B5%D0%B7%D0%B5%D1%80%D0%B2%29
