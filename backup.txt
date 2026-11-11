@@ -1,4 +1,4 @@
-vless://1653818d-532e-46be-b825-384107fb7c3a@stats.mediacorphub.org:443?alpn=h2&encryption=none&security=tls&serviceName=gw.v2.PushService&sni=stats.mediacorphub.org&type=grpc&fp=ios#🇨🇭LTE
 vless://1653818d-532e-46be-b825-384107fb7c3a@assets.mediacorphub.org:443?alpn=h2&encryption=none&security=tls&serviceName=hub.v1.ObjectService&sni=assets.mediacorphub.org&type=grpc&fp=ios#🇨🇭LTE
-vless://84a56b88-2f89-4a57-b925-74abd5b7fd87@78.159.245.40:8445?encryption=none&flow=xtls-rprx-vision&fp=safari&pbk=I_0JD13_bJuD6bNhTfb1PFPJUQqEVHl-YFluNwHAPD4&security=reality&sni=passport.yandex.ru&spx=%2F&type=raw#🇨🇭LTE
-vless://ff7e1c65-cc59-4a1a-9178-89a2e90a568c@br-rub.i-_-i.llill.tech:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=max.ru&fp=firefox&pbk=Mn0DIMKW6zu0_D3E1qKO7xMlIVZvB-rqO_-f7Le2vAs&sid=428ef87fd47a3a32#🇨🇭LTE%20%28%D1%80%D0%B5%D0%B7%D0%B5%D1%80%D0%B2%29
+vless://3f25b15b-1777-4c08-9ade-60336ac92a82@81.177.215.81:443?encryption=none&fp=firefox&path=/ws&security=tls&sni=edge-stream.lindenpixel.com&type=ws#🇨🇭LTE
+vless://1653818d-532e-46be-b825-384107fb7c3a@stats.mediacorphub.org:443?alpn=h2&encryption=none&security=tls&serviceName=gw.v2.PushService&sni=stats.mediacorphub.org&type=grpc&fp=ios#🇨🇭LTE
+vless://89480e60-f3ac-4088-ad9c-e6ea179a8503@sub-edge-12-1g.xrent.cloud:11451?encryption=none&type=xhttp&security=reality&path=/&mode=auto&sni=ligastavok.ru&fp=chrome&pbk=kDEc42JBZxig3BrLD3V1ofs3oJZk15-ANWN-rM0JW10&sid=f28145401b4f633a&spx=/#🇨🇭LTE%20%28%D1%80%D0%B5%D0%B7%D0%B5%D1%80%D0%B2%29
