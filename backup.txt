@@ -1,4 +1,4 @@
-vless://67cd3349-f789-4cbb-8b91-4b6b1654ce7c@151.101.36.61:443?type=xhttp&security=tls&fp=firefox&sni=accounts.fastly.com&host=ovd10.global.ssl.fastly.net&mode=auto#🇨🇭LTE
-vless://622654a4-b666-000b-9260-fb717e05154f@169.40.34.41:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=key-master-saver.com&fp=chrome&pbk=6VMgXXhZdJCiOG05EyK_zTHh00kpFGrZJeZIEPgqhjY&sid=1c3e8241a8743df9&type=tcp&headerType=none#🇨🇭LTE
-vless://1653818d-532e-46be-b825-384107fb7c3a@89.105.195.148:443?encryption=none&security=tls&serviceName=gw.v2.PushService&sni=api.mediacorphub.org&type=grpc&fp=edge#🇨🇭LTE
+vless://cf1b08a7-55b7-4241-b80a-c59116272b43@185.242.247.66:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=DXc-l15XMaLM1zoeGdtkZd-1MymTHrnplcEHxyDvLRQ&security=reality&sid=d9dbc840ce42cd95&sni=home.asperwild.com&type=tcp#🇨🇭LTE
+vless://67cd3349-f789-4cbb-8b91-4b6b1654ce7c@151.101.36.61:443?type=xhttp&security=tls&fp=chrome&sni=accounts.fastly.com&host=ovd10.global.ssl.fastly.net&mode=auto#🇨🇭LTE
+vless://1653818d-532e-46be-b825-384107fb7c3a@89.105.195.148:443?encryption=none&fp=firefox&security=tls&serviceName=gw.v2.PushService&sni=get.mediacorphub.org&type=grpc#🇨🇭LTE
 vless://ff7e1c65-cc59-4a1a-9178-89a2e90a568c@br-rub.i-_-i.llill.tech:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=max.ru&fp=firefox&pbk=Mn0DIMKW6zu0_D3E1qKO7xMlIVZvB-rqO_-f7Le2vAs&sid=428ef87fd47a3a32#🇨🇭LTE%20%28%D1%80%D0%B5%D0%B7%D0%B5%D1%80%D0%B2%29
