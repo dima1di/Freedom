@@ -1,4 +1,4 @@
 vless://1653818d-532e-46be-b825-384107fb7c3a@assets.mediacorphub.org:443?alpn=h2&encryption=none&security=tls&serviceName=hub.v1.ObjectService&sni=assets.mediacorphub.org&type=grpc&fp=ios#🇨🇭LTE
 vless://1653818d-532e-46be-b825-384107fb7c3a@hub.mediacorphub.org:443?type=grpc&security=tls&fp=firefox&sni=hub.mediacorphub.org&serviceName=hub.v1.ObjectService#🇨🇭LTE
 vless://3f25b15b-1777-4c08-9ade-60336ac92a82@81.177.215.81:443?encryption=none&fp=firefox&path=/ws&security=tls&sni=edge-stream.lindenpixel.com&type=ws#🇨🇭LTE
-vless://54fc016f-824d-4549-9d06-44b976ebdfa0@sub-edge-12-1g.xrent.cloud:11451?encryption=none&type=xhttp&security=reality&path=/&mode=auto&sni=ligastavok.ru&fp=chrome&pbk=kDEc42JBZxig3BrLD3V1ofs3oJZk15-ANWN-rM0JW10&sid=f28145401b4f633a&spx=/#🇨🇭LTE%20%28%D1%80%D0%B5%D0%B7%D0%B5%D1%80%D0%B2%29
+vless://a6c0df32-e99d-4206-9c8f-cefd4f7df5d7@sub-edge-12-1g.xrent.cloud:11451?encryption=none&type=xhttp&security=reality&path=/&mode=auto&sni=ligastavok.ru&fp=chrome&pbk=kDEc42JBZxig3BrLD3V1ofs3oJZk15-ANWN-rM0JW10&sid=f28145401b4f633a&spx=/#🇨🇭LTE%20%28%D1%80%D0%B5%D0%B7%D0%B5%D1%80%D0%B2%29
