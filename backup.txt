@@ -1,4 +1,4 @@
-vless://1653818d-532e-46be-b825-384107fb7c3a@stats.mediacorphub.org:443?alpn=h2&encryption=none&security=tls&serviceName=gw.v2.PushService&sni=stats.mediacorphub.org&type=grpc&fp=ios#🇨🇭LTE
-vless://1653818d-532e-46be-b825-384107fb7c3a@hub.mediacorphub.org:443?type=grpc&security=tls&fp=firefox&sni=hub.mediacorphub.org&serviceName=hub.v1.ObjectService#🇨🇭LTE
 vless://1653818d-532e-46be-b825-384107fb7c3a@assets.mediacorphub.org:443?alpn=h2&encryption=none&security=tls&serviceName=hub.v1.ObjectService&sni=assets.mediacorphub.org&type=grpc&fp=ios#🇨🇭LTE
+vless://1653818d-532e-46be-b825-384107fb7c3a@hub.mediacorphub.org:443?type=grpc&security=tls&fp=firefox&sni=hub.mediacorphub.org&serviceName=hub.v1.ObjectService#🇨🇭LTE
+vless://1653818d-532e-46be-b825-384107fb7c3a@stats.mediacorphub.org:443?alpn=h2&encryption=none&security=tls&serviceName=gw.v2.PushService&sni=stats.mediacorphub.org&type=grpc&fp=ios#🇨🇭LTE
 vless://ff7e1c65-cc59-4a1a-9178-89a2e90a568c@br-rub.i-_-i.llill.tech:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=max.ru&fp=firefox&pbk=Mn0DIMKW6zu0_D3E1qKO7xMlIVZvB-rqO_-f7Le2vAs&sid=428ef87fd47a3a32#🇨🇭LTE%20%28%D1%80%D0%B5%D0%B7%D0%B5%D1%80%D0%B2%29
