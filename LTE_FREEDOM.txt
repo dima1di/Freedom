@@ -1,4 +1,4 @@
 https://raw.githubusercontent.com/zieng2/wl/refs/heads/main/vless_universal.txt
 https://hub.mos.ru/akelladejavu/bunker/-/raw/main/WHITE_LIST.txt
 
-https://raw.githubusercontent.com/hussaroff/lte-universal-checked/main/whitelist.txt
+#https://raw.githubusercontent.com/hussaroff/lte-universal-checked/main/whitelist.txt
